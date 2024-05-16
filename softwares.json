@@ -1,0 +1,3972 @@
+[
+    {
+        "softwareId": "S0066",
+        "softwareName": "3PARA RAT",
+        "description": "https://attack.mitre.org/software/S0066"
+    },
+    {
+        "softwareId": "S0065",
+        "softwareName": "4H RAT",
+        "description": "https://attack.mitre.org/software/S0065"
+    },
+    {
+        "softwareId": "S0677",
+        "softwareName": "AADInternals",
+        "description": "https://attack.mitre.org/software/S0677"
+    },
+    {
+        "softwareId": "S0469",
+        "softwareName": "ABK",
+        "description": "https://attack.mitre.org/software/S0469"
+    },
+    {
+        "softwareId": "S1061",
+        "softwareName": "AbstractEmu",
+        "description": "https://attack.mitre.org/software/S1061"
+    },
+    {
+        "softwareId": "S1000",
+        "softwareName": "ACAD/Medre.A",
+        "description": "https://attack.mitre.org/software/S1000"
+    },
+    {
+        "softwareId": "S1125",
+        "softwareName": "AcidRain",
+        "description": "https://attack.mitre.org/software/S1125"
+    },
+    {
+        "softwareId": "S1028",
+        "softwareName": "Action RAT",
+        "description": "https://attack.mitre.org/software/S1028"
+    },
+    {
+        "softwareId": "S0202",
+        "softwareName": "adbupd",
+        "description": "https://attack.mitre.org/software/S0202"
+    },
+    {
+        "softwareId": "S0552",
+        "softwareName": "AdFind",
+        "description": "https://attack.mitre.org/software/S0552"
+    },
+    {
+        "softwareId": "S0309",
+        "softwareName": "Adups",
+        "description": "https://attack.mitre.org/software/S0309"
+    },
+    {
+        "softwareId": "S0045",
+        "softwareName": "ADVSTORESHELL",
+        "description": "https://attack.mitre.org/software/S0045"
+    },
+    {
+        "softwareId": "S0440",
+        "softwareName": "Agent Smith",
+        "description": "https://attack.mitre.org/software/S0440"
+    },
+    {
+        "softwareId": "S0331",
+        "softwareName": "Agent Tesla",
+        "description": "https://attack.mitre.org/software/S0331"
+    },
+    {
+        "softwareId": "S0092",
+        "softwareName": "Agent.btz",
+        "description": "https://attack.mitre.org/software/S0092"
+    },
+    {
+        "softwareId": "S1095",
+        "softwareName": "AhRat",
+        "description": "https://attack.mitre.org/software/S1095"
+    },
+    {
+        "softwareId": "S1129",
+        "softwareName": "Akira",
+        "description": "https://attack.mitre.org/software/S1129"
+    },
+    {
+        "softwareId": "S0319",
+        "softwareName": "Allwinner",
+        "description": "https://attack.mitre.org/software/S0319"
+    },
+    {
+        "softwareId": "S1025",
+        "softwareName": "Amadey",
+        "description": "https://attack.mitre.org/software/S1025"
+    },
+    {
+        "softwareId": "S0504",
+        "softwareName": "Anchor",
+        "description": "https://attack.mitre.org/software/S0504"
+    },
+    {
+        "softwareId": "S0525",
+        "softwareName": "Android/AdDisplay.Ashas",
+        "description": "https://attack.mitre.org/software/S0525"
+    },
+    {
+        "softwareId": "S0304",
+        "softwareName": "Android/Chuli.A",
+        "description": "https://attack.mitre.org/software/S0304"
+    },
+    {
+        "softwareId": "S0524",
+        "softwareName": "AndroidOS/MalLocker.B",
+        "description": "https://attack.mitre.org/software/S0524"
+    },
+    {
+        "softwareId": "S0310",
+        "softwareName": "ANDROIDOS_ANSERVER.A",
+        "description": "https://attack.mitre.org/software/S0310"
+    },
+    {
+        "softwareId": "S1074",
+        "softwareName": "ANDROMEDA",
+        "description": "https://attack.mitre.org/software/S1074"
+    },
+    {
+        "softwareId": "S0292",
+        "softwareName": "AndroRAT",
+        "description": "https://attack.mitre.org/software/S0292"
+    },
+    {
+        "softwareId": "S0422",
+        "softwareName": "Anubis",
+        "description": "https://attack.mitre.org/software/S0422"
+    },
+    {
+        "softwareId": "S0584",
+        "softwareName": "AppleJeus",
+        "description": "https://attack.mitre.org/software/S0584"
+    },
+    {
+        "softwareId": "S0622",
+        "softwareName": "AppleSeed",
+        "description": "https://attack.mitre.org/software/S0622"
+    },
+    {
+        "softwareId": "S0456",
+        "softwareName": "Aria-body",
+        "description": "https://attack.mitre.org/software/S0456"
+    },
+    {
+        "softwareId": "S0099",
+        "softwareName": "Arp",
+        "description": "https://attack.mitre.org/software/S0099"
+    },
+    {
+        "softwareId": "S0540",
+        "softwareName": "Asacub",
+        "description": "https://attack.mitre.org/software/S0540"
+    },
+    {
+        "softwareId": "S0073",
+        "softwareName": "ASPXSpy",
+        "description": "https://attack.mitre.org/software/S0073"
+    },
+    {
+        "softwareId": "S0373",
+        "softwareName": "Astaroth",
+        "description": "https://attack.mitre.org/software/S0373"
+    },
+    {
+        "softwareId": "S1087",
+        "softwareName": "AsyncRAT",
+        "description": "https://attack.mitre.org/software/S1087"
+    },
+    {
+        "softwareId": "S0110",
+        "softwareName": "at",
+        "description": "https://attack.mitre.org/software/S0110"
+    },
+    {
+        "softwareId": "S0438",
+        "softwareName": "Attor",
+        "description": "https://attack.mitre.org/software/S0438"
+    },
+    {
+        "softwareId": "S0347",
+        "softwareName": "AuditCred",
+        "description": "https://attack.mitre.org/software/S0347"
+    },
+    {
+        "softwareId": "S1029",
+        "softwareName": "AuTo Stealer",
+        "description": "https://attack.mitre.org/software/S1029"
+    },
+    {
+        "softwareId": "S0129",
+        "softwareName": "AutoIt backdoor",
+        "description": "https://attack.mitre.org/software/S0129"
+    },
+    {
+        "softwareId": "S0640",
+        "softwareName": "Avaddon",
+        "description": "https://attack.mitre.org/software/S0640"
+    },
+    {
+        "softwareId": "S0473",
+        "softwareName": "Avenger",
+        "description": "https://attack.mitre.org/software/S0473"
+    },
+    {
+        "softwareId": "S1053",
+        "softwareName": "AvosLocker",
+        "description": "https://attack.mitre.org/software/S1053"
+    },
+    {
+        "softwareId": "S0344",
+        "softwareName": "Azorult",
+        "description": "https://attack.mitre.org/software/S0344"
+    },
+    {
+        "softwareId": "S0638",
+        "softwareName": "Babuk",
+        "description": "https://attack.mitre.org/software/S0638"
+    },
+    {
+        "softwareId": "S0414",
+        "softwareName": "BabyShark",
+        "description": "https://attack.mitre.org/software/S0414"
+    },
+    {
+        "softwareId": "S0475",
+        "softwareName": "BackConfig",
+        "description": "https://attack.mitre.org/software/S0475"
+    },
+    {
+        "softwareId": "S0093",
+        "softwareName": "Backdoor.Oldrea",
+        "description": "https://attack.mitre.org/software/S0093"
+    },
+    {
+        "softwareId": "S0031",
+        "softwareName": "BACKSPACE",
+        "description": "https://attack.mitre.org/software/S0031"
+    },
+    {
+        "softwareId": "S0606",
+        "softwareName": "Bad Rabbit",
+        "description": "https://attack.mitre.org/software/S0606"
+    },
+    {
+        "softwareId": "S0245",
+        "softwareName": "BADCALL",
+        "description": "https://attack.mitre.org/software/S0245"
+    },
+    {
+        "softwareId": "S0642",
+        "softwareName": "BADFLICK",
+        "description": "https://attack.mitre.org/software/S0642"
+    },
+    {
+        "softwareId": "S1081",
+        "softwareName": "BADHATCH",
+        "description": "https://attack.mitre.org/software/S1081"
+    },
+    {
+        "softwareId": "S0128",
+        "softwareName": "BADNEWS",
+        "description": "https://attack.mitre.org/software/S0128"
+    },
+    {
+        "softwareId": "S0337",
+        "softwareName": "BadPatch",
+        "description": "https://attack.mitre.org/software/S0337"
+    },
+    {
+        "softwareId": "S0234",
+        "softwareName": "Bandook",
+        "description": "https://attack.mitre.org/software/S0234"
+    },
+    {
+        "softwareId": "S0239",
+        "softwareName": "Bankshot",
+        "description": "https://attack.mitre.org/software/S0239"
+    },
+    {
+        "softwareId": "S0534",
+        "softwareName": "Bazar",
+        "description": "https://attack.mitre.org/software/S0534"
+    },
+    {
+        "softwareId": "S0470",
+        "softwareName": "BBK",
+        "description": "https://attack.mitre.org/software/S0470"
+    },
+    {
+        "softwareId": "S0127",
+        "softwareName": "BBSRAT",
+        "description": "https://attack.mitre.org/software/S0127"
+    },
+    {
+        "softwareId": "S0574",
+        "softwareName": "BendyBear",
+        "description": "https://attack.mitre.org/software/S0574"
+    },
+    {
+        "softwareId": "S0017",
+        "softwareName": "BISCUIT",
+        "description": "https://attack.mitre.org/software/S0017"
+    },
+    {
+        "softwareId": "S0268",
+        "softwareName": "Bisonal",
+        "description": "https://attack.mitre.org/software/S0268"
+    },
+    {
+        "softwareId": "S0570",
+        "softwareName": "BitPaymer",
+        "description": "https://attack.mitre.org/software/S0570"
+    },
+    {
+        "softwareId": "S0190",
+        "softwareName": "BITSAdmin",
+        "description": "https://attack.mitre.org/software/S0190"
+    },
+    {
+        "softwareId": "S1070",
+        "softwareName": "Black Basta",
+        "description": "https://attack.mitre.org/software/S1070"
+    },
+    {
+        "softwareId": "S1068",
+        "softwareName": "BlackCat",
+        "description": "https://attack.mitre.org/software/S1068"
+    },
+    {
+        "softwareId": "S0069",
+        "softwareName": "BLACKCOFFEE",
+        "description": "https://attack.mitre.org/software/S0069"
+    },
+    {
+        "softwareId": "S0089",
+        "softwareName": "BlackEnergy",
+        "description": "https://attack.mitre.org/software/S0089"
+    },
+    {
+        "softwareId": "S0564",
+        "softwareName": "BlackMould",
+        "description": "https://attack.mitre.org/software/S0564"
+    },
+    {
+        "softwareId": "S0520",
+        "softwareName": "BLINDINGCAN",
+        "description": "https://attack.mitre.org/software/S0520"
+    },
+    {
+        "softwareId": "S0521",
+        "softwareName": "BloodHound",
+        "description": "https://attack.mitre.org/software/S0521"
+    },
+    {
+        "softwareId": "S0657",
+        "softwareName": "BLUELIGHT",
+        "description": "https://attack.mitre.org/software/S0657"
+    },
+    {
+        "softwareId": "S0486",
+        "softwareName": "Bonadan",
+        "description": "https://attack.mitre.org/software/S0486"
+    },
+    {
+        "softwareId": "S0360",
+        "softwareName": "BONDUPDATER",
+        "description": "https://attack.mitre.org/software/S0360"
+    },
+    {
+        "softwareId": "S0635",
+        "softwareName": "BoomBox",
+        "description": "https://attack.mitre.org/software/S0635"
+    },
+    {
+        "softwareId": "S0415",
+        "softwareName": "BOOSTWRITE",
+        "description": "https://attack.mitre.org/software/S0415"
+    },
+    {
+        "softwareId": "S0114",
+        "softwareName": "BOOTRASH",
+        "description": "https://attack.mitre.org/software/S0114"
+    },
+    {
+        "softwareId": "S1079",
+        "softwareName": "BOULDSPY",
+        "description": "https://attack.mitre.org/software/S1079"
+    },
+    {
+        "softwareId": "S0651",
+        "softwareName": "BoxCaon",
+        "description": "https://attack.mitre.org/software/S0651"
+    },
+    {
+        "softwareId": "S0293",
+        "softwareName": "BrainTest",
+        "description": "https://attack.mitre.org/software/S0293"
+    },
+    {
+        "softwareId": "S1094",
+        "softwareName": "BRATA",
+        "description": "https://attack.mitre.org/software/S1094"
+    },
+    {
+        "softwareId": "S0252",
+        "softwareName": "Brave Prince",
+        "description": "https://attack.mitre.org/software/S0252"
+    },
+    {
+        "softwareId": "S0432",
+        "softwareName": "Bread",
+        "description": "https://attack.mitre.org/software/S0432"
+    },
+    {
+        "softwareId": "S0204",
+        "softwareName": "Briba",
+        "description": "https://attack.mitre.org/software/S0204"
+    },
+    {
+        "softwareId": "S1063",
+        "softwareName": "Brute Ratel C4",
+        "description": "https://attack.mitre.org/software/S1063"
+    },
+    {
+        "softwareId": "S0014",
+        "softwareName": "BS2005",
+        "description": "https://attack.mitre.org/software/S0014"
+    },
+    {
+        "softwareId": "S0043",
+        "softwareName": "BUBBLEWRAP",
+        "description": "https://attack.mitre.org/software/S0043"
+    },
+    {
+        "softwareId": "S0471",
+        "softwareName": "build_downer",
+        "description": "https://attack.mitre.org/software/S0471"
+    },
+    {
+        "softwareId": "S1039",
+        "softwareName": "Bumblebee",
+        "description": "https://attack.mitre.org/software/S1039"
+    },
+    {
+        "softwareId": "S0482",
+        "softwareName": "Bundlore",
+        "description": "https://attack.mitre.org/software/S0482"
+    },
+    {
+        "softwareId": "S1118",
+        "softwareName": "BUSHWALK",
+        "description": "https://attack.mitre.org/software/S1118"
+    },
+    {
+        "softwareId": "S0655",
+        "softwareName": "BusyGasper",
+        "description": "https://attack.mitre.org/software/S0655"
+    },
+    {
+        "softwareId": "S0119",
+        "softwareName": "Cachedump",
+        "description": "https://attack.mitre.org/software/S0119"
+    },
+    {
+        "softwareId": "S0693",
+        "softwareName": "CaddyWiper",
+        "description": "https://attack.mitre.org/software/S0693"
+    },
+    {
+        "softwareId": "S0454",
+        "softwareName": "Cadelspy",
+        "description": "https://attack.mitre.org/software/S0454"
+    },
+    {
+        "softwareId": "S0025",
+        "softwareName": "CALENDAR",
+        "description": "https://attack.mitre.org/software/S0025"
+    },
+    {
+        "softwareId": "S0274",
+        "softwareName": "Calisto",
+        "description": "https://attack.mitre.org/software/S0274"
+    },
+    {
+        "softwareId": "S0077",
+        "softwareName": "CallMe",
+        "description": "https://attack.mitre.org/software/S0077"
+    },
+    {
+        "softwareId": "S0351",
+        "softwareName": "Cannon",
+        "description": "https://attack.mitre.org/software/S0351"
+    },
+    {
+        "softwareId": "S0030",
+        "softwareName": "Carbanak",
+        "description": "https://attack.mitre.org/software/S0030"
+    },
+    {
+        "softwareId": "S0484",
+        "softwareName": "Carberp",
+        "description": "https://attack.mitre.org/software/S0484"
+    },
+    {
+        "softwareId": "S0335",
+        "softwareName": "Carbon",
+        "description": "https://attack.mitre.org/software/S0335"
+    },
+    {
+        "softwareId": "S0529",
+        "softwareName": "CarbonSteal",
+        "description": "https://attack.mitre.org/software/S0529"
+    },
+    {
+        "softwareId": "S0348",
+        "softwareName": "Cardinal RAT",
+        "description": "https://attack.mitre.org/software/S0348"
+    },
+    {
+        "softwareId": "S0465",
+        "softwareName": "CARROTBALL",
+        "description": "https://attack.mitre.org/software/S0465"
+    },
+    {
+        "softwareId": "S0462",
+        "softwareName": "CARROTBAT",
+        "description": "https://attack.mitre.org/software/S0462"
+    },
+    {
+        "softwareId": "S0261",
+        "softwareName": "Catchamas",
+        "description": "https://attack.mitre.org/software/S0261"
+    },
+    {
+        "softwareId": "S0572",
+        "softwareName": "Caterpillar WebShell",
+        "description": "https://attack.mitre.org/software/S0572"
+    },
+    {
+        "softwareId": "S0222",
+        "softwareName": "CCBkdr",
+        "description": "https://attack.mitre.org/software/S0222"
+    },
+    {
+        "softwareId": "S1043",
+        "softwareName": "ccf32",
+        "description": "https://attack.mitre.org/software/S1043"
+    },
+    {
+        "softwareId": "S0480",
+        "softwareName": "Cerberus",
+        "description": "https://attack.mitre.org/software/S0480"
+    },
+    {
+        "softwareId": "S0160",
+        "softwareName": "certutil",
+        "description": "https://attack.mitre.org/software/S0160"
+    },
+    {
+        "softwareId": "S0631",
+        "softwareName": "Chaes",
+        "description": "https://attack.mitre.org/software/S0631"
+    },
+    {
+        "softwareId": "S1083",
+        "softwareName": "Chameleon",
+        "description": "https://attack.mitre.org/software/S1083"
+    },
+    {
+        "softwareId": "S0220",
+        "softwareName": "Chaos",
+        "description": "https://attack.mitre.org/software/S0220"
+    },
+    {
+        "softwareId": "S0323",
+        "softwareName": "Charger",
+        "description": "https://attack.mitre.org/software/S0323"
+    },
+    {
+        "softwareId": "S0674",
+        "softwareName": "CharmPower",
+        "description": "https://attack.mitre.org/software/S0674"
+    },
+    {
+        "softwareId": "S0144",
+        "softwareName": "ChChes",
+        "description": "https://attack.mitre.org/software/S0144"
+    },
+    {
+        "softwareId": "S1096",
+        "softwareName": "Cheerscrypt",
+        "description": "https://attack.mitre.org/software/S1096"
+    },
+    {
+        "softwareId": "S0555",
+        "softwareName": "CHEMISTGAMES",
+        "description": "https://attack.mitre.org/software/S0555"
+    },
+    {
+        "softwareId": "S0107",
+        "softwareName": "Cherry Picker",
+        "description": "https://attack.mitre.org/software/S0107"
+    },
+    {
+        "softwareId": "S0020",
+        "softwareName": "China Chopper",
+        "description": "https://attack.mitre.org/software/S0020"
+    },
+    {
+        "softwareId": "S1041",
+        "softwareName": "Chinoxy",
+        "description": "https://attack.mitre.org/software/S1041"
+    },
+    {
+        "softwareId": "S0023",
+        "softwareName": "CHOPSTICK",
+        "description": "https://attack.mitre.org/software/S0023"
+    },
+    {
+        "softwareId": "S0667",
+        "softwareName": "Chrommme",
+        "description": "https://attack.mitre.org/software/S0667"
+    },
+    {
+        "softwareId": "S0602",
+        "softwareName": "Circles",
+        "description": "https://attack.mitre.org/software/S0602"
+    },
+    {
+        "softwareId": "S0660",
+        "softwareName": "Clambling",
+        "description": "https://attack.mitre.org/software/S0660"
+    },
+    {
+        "softwareId": "S0611",
+        "softwareName": "Clop",
+        "description": "https://attack.mitre.org/software/S0611"
+    },
+    {
+        "softwareId": "S0054",
+        "softwareName": "CloudDuke",
+        "description": "https://attack.mitre.org/software/S0054"
+    },
+    {
+        "softwareId": "S0106",
+        "softwareName": "cmd",
+        "description": "https://attack.mitre.org/software/S0106"
+    },
+    {
+        "softwareId": "S1105",
+        "softwareName": "COATHANGER",
+        "description": "https://attack.mitre.org/software/S1105"
+    },
+    {
+        "softwareId": "S0154",
+        "softwareName": "Cobalt Strike",
+        "description": "https://attack.mitre.org/software/S0154"
+    },
+    {
+        "softwareId": "S0338",
+        "softwareName": "Cobian RAT",
+        "description": "https://attack.mitre.org/software/S0338"
+    },
+    {
+        "softwareId": "S0369",
+        "softwareName": "CoinTicker",
+        "description": "https://attack.mitre.org/software/S0369"
+    },
+    {
+        "softwareId": "S0244",
+        "softwareName": "Comnie",
+        "description": "https://attack.mitre.org/software/S0244"
+    },
+    {
+        "softwareId": "S0126",
+        "softwareName": "ComRAT",
+        "description": "https://attack.mitre.org/software/S0126"
+    },
+    {
+        "softwareId": "S0426",
+        "softwareName": "Concipit1248",
+        "description": "https://attack.mitre.org/software/S0426"
+    },
+    {
+        "softwareId": "S0608",
+        "softwareName": "Conficker",
+        "description": "https://attack.mitre.org/software/S0608"
+    },
+    {
+        "softwareId": "S0591",
+        "softwareName": "ConnectWise",
+        "description": "https://attack.mitre.org/software/S0591"
+    },
+    {
+        "softwareId": "S0575",
+        "softwareName": "Conti",
+        "description": "https://attack.mitre.org/software/S0575"
+    },
+    {
+        "softwareId": "S0492",
+        "softwareName": "CookieMiner",
+        "description": "https://attack.mitre.org/software/S0492"
+    },
+    {
+        "softwareId": "S0212",
+        "softwareName": "CORALDECK",
+        "description": "https://attack.mitre.org/software/S0212"
+    },
+    {
+        "softwareId": "S0137",
+        "softwareName": "CORESHELL",
+        "description": "https://attack.mitre.org/software/S0137"
+    },
+    {
+        "softwareId": "S0425",
+        "softwareName": "Corona Updates",
+        "description": "https://attack.mitre.org/software/S0425"
+    },
+    {
+        "softwareId": "S0050",
+        "softwareName": "CosmicDuke",
+        "description": "https://attack.mitre.org/software/S0050"
+    },
+    {
+        "softwareId": "S0614",
+        "softwareName": "CostaBricks",
+        "description": "https://attack.mitre.org/software/S0614"
+    },
+    {
+        "softwareId": "S0046",
+        "softwareName": "CozyCar",
+        "description": "https://attack.mitre.org/software/S0046"
+    },
+    {
+        "softwareId": "S0488",
+        "softwareName": "CrackMapExec",
+        "description": "https://attack.mitre.org/software/S0488"
+    },
+    {
+        "softwareId": "S1023",
+        "softwareName": "CreepyDrive",
+        "description": "https://attack.mitre.org/software/S1023"
+    },
+    {
+        "softwareId": "S1024",
+        "softwareName": "CreepySnail",
+        "description": "https://attack.mitre.org/software/S1024"
+    },
+    {
+        "softwareId": "S0115",
+        "softwareName": "Crimson",
+        "description": "https://attack.mitre.org/software/S0115"
+    },
+    {
+        "softwareId": "S0235",
+        "softwareName": "CrossRAT",
+        "description": "https://attack.mitre.org/software/S0235"
+    },
+    {
+        "softwareId": "S0538",
+        "softwareName": "Crutch",
+        "description": "https://attack.mitre.org/software/S0538"
+    },
+    {
+        "softwareId": "S0498",
+        "softwareName": "Cryptoistic",
+        "description": "https://attack.mitre.org/software/S0498"
+    },
+    {
+        "softwareId": "S0527",
+        "softwareName": "CSPY Downloader",
+        "description": "https://attack.mitre.org/software/S0527"
+    },
+    {
+        "softwareId": "S0625",
+        "softwareName": "Cuba",
+        "description": "https://attack.mitre.org/software/S0625"
+    },
+    {
+        "softwareId": "S0687",
+        "softwareName": "Cyclops Blink",
+        "description": "https://attack.mitre.org/software/S0687"
+    },
+    {
+        "softwareId": "S0497",
+        "softwareName": "Dacls",
+        "description": "https://attack.mitre.org/software/S0497"
+    },
+    {
+        "softwareId": "S1014",
+        "softwareName": "DanBot",
+        "description": "https://attack.mitre.org/software/S1014"
+    },
+    {
+        "softwareId": "S0334",
+        "softwareName": "DarkComet",
+        "description": "https://attack.mitre.org/software/S0334"
+    },
+    {
+        "softwareId": "S1111",
+        "softwareName": "DarkGate",
+        "description": "https://attack.mitre.org/software/S1111"
+    },
+    {
+        "softwareId": "S1066",
+        "softwareName": "DarkTortilla",
+        "description": "https://attack.mitre.org/software/S1066"
+    },
+    {
+        "softwareId": "S0673",
+        "softwareName": "DarkWatchman",
+        "description": "https://attack.mitre.org/software/S0673"
+    },
+    {
+        "softwareId": "S0187",
+        "softwareName": "Daserf",
+        "description": "https://attack.mitre.org/software/S0187"
+    },
+    {
+        "softwareId": "S1033",
+        "softwareName": "DCSrv",
+        "description": "https://attack.mitre.org/software/S1033"
+    },
+    {
+        "softwareId": "S0255",
+        "softwareName": "DDKONG",
+        "description": "https://attack.mitre.org/software/S0255"
+    },
+    {
+        "softwareId": "S1052",
+        "softwareName": "DEADEYE",
+        "description": "https://attack.mitre.org/software/S1052"
+    },
+    {
+        "softwareId": "S0243",
+        "softwareName": "DealersChoice",
+        "description": "https://attack.mitre.org/software/S0243"
+    },
+    {
+        "softwareId": "S0616",
+        "softwareName": "DEATHRANSOM",
+        "description": "https://attack.mitre.org/software/S0616"
+    },
+    {
+        "softwareId": "S0479",
+        "softwareName": "DEFENSOR ID",
+        "description": "https://attack.mitre.org/software/S0479"
+    },
+    {
+        "softwareId": "S0301",
+        "softwareName": "Dendroid",
+        "description": "https://attack.mitre.org/software/S0301"
+    },
+    {
+        "softwareId": "S0354",
+        "softwareName": "Denis",
+        "description": "https://attack.mitre.org/software/S0354"
+    },
+    {
+        "softwareId": "S0021",
+        "softwareName": "Derusbi",
+        "description": "https://attack.mitre.org/software/S0021"
+    },
+    {
+        "softwareId": "S0505",
+        "softwareName": "Desert Scorpion",
+        "description": "https://attack.mitre.org/software/S0505"
+    },
+    {
+        "softwareId": "S0659",
+        "softwareName": "Diavol",
+        "description": "https://attack.mitre.org/software/S0659"
+    },
+    {
+        "softwareId": "S0200",
+        "softwareName": "Dipsind",
+        "description": "https://attack.mitre.org/software/S0200"
+    },
+    {
+        "softwareId": "S1088",
+        "softwareName": "Disco",
+        "description": "https://attack.mitre.org/software/S1088"
+    },
+    {
+        "softwareId": "S1021",
+        "softwareName": "DnsSystem",
+        "description": "https://attack.mitre.org/software/S1021"
+    },
+    {
+        "softwareId": "S0213",
+        "softwareName": "DOGCALL",
+        "description": "https://attack.mitre.org/software/S0213"
+    },
+    {
+        "softwareId": "S0281",
+        "softwareName": "Dok",
+        "description": "https://attack.mitre.org/software/S0281"
+    },
+    {
+        "softwareId": "S0600",
+        "softwareName": "Doki",
+        "description": "https://attack.mitre.org/software/S0600"
+    },
+    {
+        "softwareId": "S0695",
+        "softwareName": "Donut",
+        "description": "https://attack.mitre.org/software/S0695"
+    },
+    {
+        "softwareId": "S0550",
+        "softwareName": "DoubleAgent",
+        "description": "https://attack.mitre.org/software/S0550"
+    },
+    {
+        "softwareId": "S0472",
+        "softwareName": "down_new",
+        "description": "https://attack.mitre.org/software/S0472"
+    },
+    {
+        "softwareId": "S0134",
+        "softwareName": "Downdelph",
+        "description": "https://attack.mitre.org/software/S0134"
+    },
+    {
+        "softwareId": "S0186",
+        "softwareName": "DownPaper",
+        "description": "https://attack.mitre.org/software/S0186"
+    },
+    {
+        "softwareId": "S0694",
+        "softwareName": "DRATzarus",
+        "description": "https://attack.mitre.org/software/S0694"
+    },
+    {
+        "softwareId": "S0300",
+        "softwareName": "DressCode",
+        "description": "https://attack.mitre.org/software/S0300"
+    },
+    {
+        "softwareId": "S0384",
+        "softwareName": "Dridex",
+        "description": "https://attack.mitre.org/software/S0384"
+    },
+    {
+        "softwareId": "S1054",
+        "softwareName": "Drinik",
+        "description": "https://attack.mitre.org/software/S1054"
+    },
+    {
+        "softwareId": "S0320",
+        "softwareName": "DroidJack",
+        "description": "https://attack.mitre.org/software/S0320"
+    },
+    {
+        "softwareId": "S0547",
+        "softwareName": "DropBook",
+        "description": "https://attack.mitre.org/software/S0547"
+    },
+    {
+        "softwareId": "S0502",
+        "softwareName": "Drovorub",
+        "description": "https://attack.mitre.org/software/S0502"
+    },
+    {
+        "softwareId": "S0105",
+        "softwareName": "dsquery",
+        "description": "https://attack.mitre.org/software/S0105"
+    },
+    {
+        "softwareId": "S0567",
+        "softwareName": "Dtrack",
+        "description": "https://attack.mitre.org/software/S0567"
+    },
+    {
+        "softwareId": "S0315",
+        "softwareName": "DualToy",
+        "description": "https://attack.mitre.org/software/S0315"
+    },
+    {
+        "softwareId": "S0038",
+        "softwareName": "Duqu",
+        "description": "https://attack.mitre.org/software/S0038"
+    },
+    {
+        "softwareId": "S0062",
+        "softwareName": "DustySky",
+        "description": "https://attack.mitre.org/software/S0062"
+    },
+    {
+        "softwareId": "S0420",
+        "softwareName": "Dvmap",
+        "description": "https://attack.mitre.org/software/S0420"
+    },
+    {
+        "softwareId": "S0024",
+        "softwareName": "Dyre",
+        "description": "https://attack.mitre.org/software/S0024"
+    },
+    {
+        "softwareId": "S0377",
+        "softwareName": "Ebury",
+        "description": "https://attack.mitre.org/software/S0377"
+    },
+    {
+        "softwareId": "S0593",
+        "softwareName": "ECCENTRICBANDWAGON",
+        "description": "https://attack.mitre.org/software/S0593"
+    },
+    {
+        "softwareId": "S0624",
+        "softwareName": "Ecipekac",
+        "description": "https://attack.mitre.org/software/S0624"
+    },
+    {
+        "softwareId": "S0554",
+        "softwareName": "Egregor",
+        "description": "https://attack.mitre.org/software/S0554"
+    },
+    {
+        "softwareId": "S0605",
+        "softwareName": "EKANS",
+        "description": "https://attack.mitre.org/software/S0605"
+    },
+    {
+        "softwareId": "S0081",
+        "softwareName": "Elise",
+        "description": "https://attack.mitre.org/software/S0081"
+    },
+    {
+        "softwareId": "S0064",
+        "softwareName": "ELMER",
+        "description": "https://attack.mitre.org/software/S0064"
+    },
+    {
+        "softwareId": "S0082",
+        "softwareName": "Emissary",
+        "description": "https://attack.mitre.org/software/S0082"
+    },
+    {
+        "softwareId": "S0367",
+        "softwareName": "Emotet",
+        "description": "https://attack.mitre.org/software/S0367"
+    },
+    {
+        "softwareId": "S0363",
+        "softwareName": "Empire",
+        "description": "https://attack.mitre.org/software/S0363"
+    },
+    {
+        "softwareId": "S0634",
+        "softwareName": "EnvyScout",
+        "description": "https://attack.mitre.org/software/S0634"
+    },
+    {
+        "softwareId": "S0091",
+        "softwareName": "Epic",
+        "description": "https://attack.mitre.org/software/S0091"
+    },
+    {
+        "softwareId": "S1092",
+        "softwareName": "Escobar",
+        "description": "https://attack.mitre.org/software/S1092"
+    },
+    {
+        "softwareId": "S0404",
+        "softwareName": "esentutl",
+        "description": "https://attack.mitre.org/software/S0404"
+    },
+    {
+        "softwareId": "S0507",
+        "softwareName": "eSurv",
+        "description": "https://attack.mitre.org/software/S0507"
+    },
+    {
+        "softwareId": "S0478",
+        "softwareName": "EventBot",
+        "description": "https://attack.mitre.org/software/S0478"
+    },
+    {
+        "softwareId": "S0396",
+        "softwareName": "EvilBunny",
+        "description": "https://attack.mitre.org/software/S0396"
+    },
+    {
+        "softwareId": "S0152",
+        "softwareName": "EvilGrab",
+        "description": "https://attack.mitre.org/software/S0152"
+    },
+    {
+        "softwareId": "S0568",
+        "softwareName": "EVILNUM",
+        "description": "https://attack.mitre.org/software/S0568"
+    },
+    {
+        "softwareId": "S0401",
+        "softwareName": "Exaramel for Linux",
+        "description": "https://attack.mitre.org/software/S0401"
+    },
+    {
+        "softwareId": "S0343",
+        "softwareName": "Exaramel for Windows",
+        "description": "https://attack.mitre.org/software/S0343"
+    },
+    {
+        "softwareId": "S0522",
+        "softwareName": "Exobot",
+        "description": "https://attack.mitre.org/software/S0522"
+    },
+    {
+        "softwareId": "S0405",
+        "softwareName": "Exodus",
+        "description": "https://attack.mitre.org/software/S0405"
+    },
+    {
+        "softwareId": "S0361",
+        "softwareName": "Expand",
+        "description": "https://attack.mitre.org/software/S0361"
+    },
+    {
+        "softwareId": "S0569",
+        "softwareName": "Explosive",
+        "description": "https://attack.mitre.org/software/S0569"
+    },
+    {
+        "softwareId": "S1080",
+        "softwareName": "Fakecalls",
+        "description": "https://attack.mitre.org/software/S1080"
+    },
+    {
+        "softwareId": "S0076",
+        "softwareName": "FakeM",
+        "description": "https://attack.mitre.org/software/S0076"
+    },
+    {
+        "softwareId": "S0509",
+        "softwareName": "FakeSpy",
+        "description": "https://attack.mitre.org/software/S0509"
+    },
+    {
+        "softwareId": "S0181",
+        "softwareName": "FALLCHILL",
+        "description": "https://attack.mitre.org/software/S0181"
+    },
+    {
+        "softwareId": "S0512",
+        "softwareName": "FatDuke",
+        "description": "https://attack.mitre.org/software/S0512"
+    },
+    {
+        "softwareId": "S0171",
+        "softwareName": "Felismus",
+        "description": "https://attack.mitre.org/software/S0171"
+    },
+    {
+        "softwareId": "S0267",
+        "softwareName": "FELIXROOT",
+        "description": "https://attack.mitre.org/software/S0267"
+    },
+    {
+        "softwareId": "S0679",
+        "softwareName": "Ferocious",
+        "description": "https://attack.mitre.org/software/S0679"
+    },
+    {
+        "softwareId": "S0120",
+        "softwareName": "Fgdump",
+        "description": "https://attack.mitre.org/software/S0120"
+    },
+    {
+        "softwareId": "S0355",
+        "softwareName": "Final1stspy",
+        "description": "https://attack.mitre.org/software/S0355"
+    },
+    {
+        "softwareId": "S0182",
+        "softwareName": "FinFisher",
+        "description": "https://attack.mitre.org/software/S0182"
+    },
+    {
+        "softwareId": "S0618",
+        "softwareName": "FIVEHANDS",
+        "description": "https://attack.mitre.org/software/S0618"
+    },
+    {
+        "softwareId": "S0696",
+        "softwareName": "Flagpro",
+        "description": "https://attack.mitre.org/software/S0696"
+    },
+    {
+        "softwareId": "S0143",
+        "softwareName": "Flame",
+        "description": "https://attack.mitre.org/software/S0143"
+    },
+    {
+        "softwareId": "S0036",
+        "softwareName": "FLASHFLOOD",
+        "description": "https://attack.mitre.org/software/S0036"
+    },
+    {
+        "softwareId": "S0381",
+        "softwareName": "FlawedAmmyy",
+        "description": "https://attack.mitre.org/software/S0381"
+    },
+    {
+        "softwareId": "S0383",
+        "softwareName": "FlawedGrace",
+        "description": "https://attack.mitre.org/software/S0383"
+    },
+    {
+        "softwareId": "S0408",
+        "softwareName": "FlexiSpy",
+        "description": "https://attack.mitre.org/software/S0408"
+    },
+    {
+        "softwareId": "S0173",
+        "softwareName": "FLIPSIDE",
+        "description": "https://attack.mitre.org/software/S0173"
+    },
+    {
+        "softwareId": "S1103",
+        "softwareName": "FlixOnline",
+        "description": "https://attack.mitre.org/software/S1103"
+    },
+    {
+        "softwareId": "S1067",
+        "softwareName": "FluBot",
+        "description": "https://attack.mitre.org/software/S1067"
+    },
+    {
+        "softwareId": "S1093",
+        "softwareName": "FlyTrap",
+        "description": "https://attack.mitre.org/software/S1093"
+    },
+    {
+        "softwareId": "S0661",
+        "softwareName": "FoggyWeb",
+        "description": "https://attack.mitre.org/software/S0661"
+    },
+    {
+        "softwareId": "S0193",
+        "softwareName": "Forfiles",
+        "description": "https://attack.mitre.org/software/S0193"
+    },
+    {
+        "softwareId": "S1120",
+        "softwareName": "FRAMESTING",
+        "description": "https://attack.mitre.org/software/S1120"
+    },
+    {
+        "softwareId": "S0503",
+        "softwareName": "FrameworkPOS",
+        "description": "https://attack.mitre.org/software/S0503"
+    },
+    {
+        "softwareId": "S0577",
+        "softwareName": "FrozenCell",
+        "description": "https://attack.mitre.org/software/S0577"
+    },
+    {
+        "softwareId": "S0277",
+        "softwareName": "FruitFly",
+        "description": "https://attack.mitre.org/software/S0277"
+    },
+    {
+        "softwareId": "S0095",
+        "softwareName": "ftp",
+        "description": "https://attack.mitre.org/software/S0095"
+    },
+    {
+        "softwareId": "S1044",
+        "softwareName": "FunnyDream",
+        "description": "https://attack.mitre.org/software/S1044"
+    },
+    {
+        "softwareId": "S0628",
+        "softwareName": "FYAnti",
+        "description": "https://attack.mitre.org/software/S0628"
+    },
+    {
+        "softwareId": "S0410",
+        "softwareName": "Fysbis",
+        "description": "https://attack.mitre.org/software/S0410"
+    },
+    {
+        "softwareId": "S0168",
+        "softwareName": "Gazer",
+        "description": "https://attack.mitre.org/software/S0168"
+    },
+    {
+        "softwareId": "S0666",
+        "softwareName": "Gelsemium",
+        "description": "https://attack.mitre.org/software/S0666"
+    },
+    {
+        "softwareId": "S0049",
+        "softwareName": "GeminiDuke",
+        "description": "https://attack.mitre.org/software/S0049"
+    },
+    {
+        "softwareId": "S0460",
+        "softwareName": "Get2",
+        "description": "https://attack.mitre.org/software/S0460"
+    },
+    {
+        "softwareId": "S0032",
+        "softwareName": "gh0st RAT",
+        "description": "https://attack.mitre.org/software/S0032"
+    },
+    {
+        "softwareId": "S0423",
+        "softwareName": "Ginp",
+        "description": "https://attack.mitre.org/software/S0423"
+    },
+    {
+        "softwareId": "S1117",
+        "softwareName": "GLASSTOKEN",
+        "description": "https://attack.mitre.org/software/S1117"
+    },
+    {
+        "softwareId": "S0026",
+        "softwareName": "GLOOXMAIL",
+        "description": "https://attack.mitre.org/software/S0026"
+    },
+    {
+        "softwareId": "S0249",
+        "softwareName": "Gold Dragon",
+        "description": "https://attack.mitre.org/software/S0249"
+    },
+    {
+        "softwareId": "S0535",
+        "softwareName": "Golden Cup",
+        "description": "https://attack.mitre.org/software/S0535"
+    },
+    {
+        "softwareId": "S0551",
+        "softwareName": "GoldenEagle",
+        "description": "https://attack.mitre.org/software/S0551"
+    },
+    {
+        "softwareId": "S0493",
+        "softwareName": "GoldenSpy",
+        "description": "https://attack.mitre.org/software/S0493"
+    },
+    {
+        "softwareId": "S0597",
+        "softwareName": "GoldFinder",
+        "description": "https://attack.mitre.org/software/S0597"
+    },
+    {
+        "softwareId": "S0588",
+        "softwareName": "GoldMax",
+        "description": "https://attack.mitre.org/software/S0588"
+    },
+    {
+        "softwareId": "S0421",
+        "softwareName": "GolfSpy",
+        "description": "https://attack.mitre.org/software/S0421"
+    },
+    {
+        "softwareId": "S0290",
+        "softwareName": "Gooligan",
+        "description": "https://attack.mitre.org/software/S0290"
+    },
+    {
+        "softwareId": "S0477",
+        "softwareName": "Goopy",
+        "description": "https://attack.mitre.org/software/S0477"
+    },
+    {
+        "softwareId": "S0536",
+        "softwareName": "GPlayed",
+        "description": "https://attack.mitre.org/software/S0536"
+    },
+    {
+        "softwareId": "S0531",
+        "softwareName": "Grandoreiro",
+        "description": "https://attack.mitre.org/software/S0531"
+    },
+    {
+        "softwareId": "S0237",
+        "softwareName": "GravityRAT",
+        "description": "https://attack.mitre.org/software/S0237"
+    },
+    {
+        "softwareId": "S0690",
+        "softwareName": "Green Lambert",
+        "description": "https://attack.mitre.org/software/S0690"
+    },
+    {
+        "softwareId": "S0342",
+        "softwareName": "GreyEnergy",
+        "description": "https://attack.mitre.org/software/S0342"
+    },
+    {
+        "softwareId": "S0417",
+        "softwareName": "GRIFFON",
+        "description": "https://attack.mitre.org/software/S0417"
+    },
+    {
+        "softwareId": "S0632",
+        "softwareName": "GrimAgent",
+        "description": "https://attack.mitre.org/software/S0632"
+    },
+    {
+        "softwareId": "S0008",
+        "softwareName": "gsecdump",
+        "description": "https://attack.mitre.org/software/S0008"
+    },
+    {
+        "softwareId": "S0561",
+        "softwareName": "GuLoader",
+        "description": "https://attack.mitre.org/software/S0561"
+    },
+    {
+        "softwareId": "S0406",
+        "softwareName": "Gustuff",
+        "description": "https://attack.mitre.org/software/S0406"
+    },
+    {
+        "softwareId": "S0132",
+        "softwareName": "H1N1",
+        "description": "https://attack.mitre.org/software/S0132"
+    },
+    {
+        "softwareId": "S0047",
+        "softwareName": "Hacking Team UEFI Rootkit",
+        "description": "https://attack.mitre.org/software/S0047"
+    },
+    {
+        "softwareId": "S0151",
+        "softwareName": "HALFBAKED",
+        "description": "https://attack.mitre.org/software/S0151"
+    },
+    {
+        "softwareId": "S0037",
+        "softwareName": "HAMMERTOSS",
+        "description": "https://attack.mitre.org/software/S0037"
+    },
+    {
+        "softwareId": "S0499",
+        "softwareName": "Hancitor",
+        "description": "https://attack.mitre.org/software/S0499"
+    },
+    {
+        "softwareId": "S0214",
+        "softwareName": "HAPPYWORK",
+        "description": "https://attack.mitre.org/software/S0214"
+    },
+    {
+        "softwareId": "S0246",
+        "softwareName": "HARDRAIN",
+        "description": "https://attack.mitre.org/software/S0246"
+    },
+    {
+        "softwareId": "S0224",
+        "softwareName": "Havij",
+        "description": "https://attack.mitre.org/software/S0224"
+    },
+    {
+        "softwareId": "S0391",
+        "softwareName": "HAWKBALL",
+        "description": "https://attack.mitre.org/software/S0391"
+    },
+    {
+        "softwareId": "S0071",
+        "softwareName": "hcdLoader",
+        "description": "https://attack.mitre.org/software/S0071"
+    },
+    {
+        "softwareId": "S0061",
+        "softwareName": "HDoor",
+        "description": "https://attack.mitre.org/software/S0061"
+    },
+    {
+        "softwareId": "S0617",
+        "softwareName": "HELLOKITTY",
+        "description": "https://attack.mitre.org/software/S0617"
+    },
+    {
+        "softwareId": "S0170",
+        "softwareName": "Helminth",
+        "description": "https://attack.mitre.org/software/S0170"
+    },
+    {
+        "softwareId": "S0544",
+        "softwareName": "HenBox",
+        "description": "https://attack.mitre.org/software/S0544"
+    },
+    {
+        "softwareId": "S0697",
+        "softwareName": "HermeticWiper",
+        "description": "https://attack.mitre.org/software/S0697"
+    },
+    {
+        "softwareId": "S0698",
+        "softwareName": "HermeticWizard",
+        "description": "https://attack.mitre.org/software/S0698"
+    },
+    {
+        "softwareId": "S1027",
+        "softwareName": "Heyoka Backdoor",
+        "description": "https://attack.mitre.org/software/S1027"
+    },
+    {
+        "softwareId": "S0087",
+        "softwareName": "Hi-Zor",
+        "description": "https://attack.mitre.org/software/S0087"
+    },
+    {
+        "softwareId": "S0394",
+        "softwareName": "HiddenWasp",
+        "description": "https://attack.mitre.org/software/S0394"
+    },
+    {
+        "softwareId": "S0135",
+        "softwareName": "HIDEDRV",
+        "description": "https://attack.mitre.org/software/S0135"
+    },
+    {
+        "softwareId": "S0009",
+        "softwareName": "Hikit",
+        "description": "https://attack.mitre.org/software/S0009"
+    },
+    {
+        "softwareId": "S1128",
+        "softwareName": "HilalRAT",
+        "description": "https://attack.mitre.org/software/S1128"
+    },
+    {
+        "softwareId": "S0601",
+        "softwareName": "Hildegard",
+        "description": "https://attack.mitre.org/software/S0601"
+    },
+    {
+        "softwareId": "S0232",
+        "softwareName": "HOMEFRY",
+        "description": "https://attack.mitre.org/software/S0232"
+    },
+    {
+        "softwareId": "S0376",
+        "softwareName": "HOPLIGHT",
+        "description": "https://attack.mitre.org/software/S0376"
+    },
+    {
+        "softwareId": "S1077",
+        "softwareName": "Hornbill",
+        "description": "https://attack.mitre.org/software/S1077"
+    },
+    {
+        "softwareId": "S0431",
+        "softwareName": "HotCroissant",
+        "description": "https://attack.mitre.org/software/S0431"
+    },
+    {
+        "softwareId": "S0040",
+        "softwareName": "HTRAN",
+        "description": "https://attack.mitre.org/software/S0040"
+    },
+    {
+        "softwareId": "S0070",
+        "softwareName": "HTTPBrowser",
+        "description": "https://attack.mitre.org/software/S0070"
+    },
+    {
+        "softwareId": "S0068",
+        "softwareName": "httpclient",
+        "description": "https://attack.mitre.org/software/S0068"
+    },
+    {
+        "softwareId": "S1097",
+        "softwareName": "HUI Loader",
+        "description": "https://attack.mitre.org/software/S1097"
+    },
+    {
+        "softwareId": "S0322",
+        "softwareName": "HummingBad",
+        "description": "https://attack.mitre.org/software/S0322"
+    },
+    {
+        "softwareId": "S0321",
+        "softwareName": "HummingWhale",
+        "description": "https://attack.mitre.org/software/S0321"
+    },
+    {
+        "softwareId": "S0203",
+        "softwareName": "Hydraq",
+        "description": "https://attack.mitre.org/software/S0203"
+    },
+    {
+        "softwareId": "S0398",
+        "softwareName": "HyperBro",
+        "description": "https://attack.mitre.org/software/S0398"
+    },
+    {
+        "softwareId": "S0537",
+        "softwareName": "HyperStack",
+        "description": "https://attack.mitre.org/software/S0537"
+    },
+    {
+        "softwareId": "S1022",
+        "softwareName": "IceApple",
+        "description": "https://attack.mitre.org/software/S1022"
+    },
+    {
+        "softwareId": "S0483",
+        "softwareName": "IcedID",
+        "description": "https://attack.mitre.org/software/S0483"
+    },
+    {
+        "softwareId": "S0101",
+        "softwareName": "ifconfig",
+        "description": "https://attack.mitre.org/software/S0101"
+    },
+    {
+        "softwareId": "S0278",
+        "softwareName": "iKitten",
+        "description": "https://attack.mitre.org/software/S0278"
+    },
+    {
+        "softwareId": "S0434",
+        "softwareName": "Imminent Monitor",
+        "description": "https://attack.mitre.org/software/S0434"
+    },
+    {
+        "softwareId": "S0357",
+        "softwareName": "Impacket",
+        "description": "https://attack.mitre.org/software/S0357"
+    },
+    {
+        "softwareId": "S1045",
+        "softwareName": "INCONTROLLER",
+        "description": "https://attack.mitre.org/software/S1045"
+    },
+    {
+        "softwareId": "S0604",
+        "softwareName": "Industroyer",
+        "description": "https://attack.mitre.org/software/S0604"
+    },
+    {
+        "softwareId": "S1072",
+        "softwareName": "Industroyer2",
+        "description": "https://attack.mitre.org/software/S1072"
+    },
+    {
+        "softwareId": "S0259",
+        "softwareName": "InnaputRAT",
+        "description": "https://attack.mitre.org/software/S0259"
+    },
+    {
+        "softwareId": "S0463",
+        "softwareName": "INSOMNIA",
+        "description": "https://attack.mitre.org/software/S0463"
+    },
+    {
+        "softwareId": "S0260",
+        "softwareName": "InvisiMole",
+        "description": "https://attack.mitre.org/software/S0260"
+    },
+    {
+        "softwareId": "S0231",
+        "softwareName": "Invoke-PSImage",
+        "description": "https://attack.mitre.org/software/S0231"
+    },
+    {
+        "softwareId": "S0100",
+        "softwareName": "ipconfig",
+        "description": "https://attack.mitre.org/software/S0100"
+    },
+    {
+        "softwareId": "S0581",
+        "softwareName": "IronNetInjector",
+        "description": "https://attack.mitre.org/software/S0581"
+    },
+    {
+        "softwareId": "S0189",
+        "softwareName": "ISMInjector",
+        "description": "https://attack.mitre.org/software/S0189"
+    },
+    {
+        "softwareId": "S0015",
+        "softwareName": "Ixeshe",
+        "description": "https://attack.mitre.org/software/S0015"
+    },
+    {
+        "softwareId": "S0163",
+        "softwareName": "Janicab",
+        "description": "https://attack.mitre.org/software/S0163"
+    },
+    {
+        "softwareId": "S0528",
+        "softwareName": "Javali",
+        "description": "https://attack.mitre.org/software/S0528"
+    },
+    {
+        "softwareId": "S0389",
+        "softwareName": "JCry",
+        "description": "https://attack.mitre.org/software/S0389"
+    },
+    {
+        "softwareId": "S0044",
+        "softwareName": "JHUHUGIT",
+        "description": "https://attack.mitre.org/software/S0044"
+    },
+    {
+        "softwareId": "S0201",
+        "softwareName": "JPIN",
+        "description": "https://attack.mitre.org/software/S0201"
+    },
+    {
+        "softwareId": "S0283",
+        "softwareName": "jRAT",
+        "description": "https://attack.mitre.org/software/S0283"
+    },
+    {
+        "softwareId": "S0648",
+        "softwareName": "JSS Loader",
+        "description": "https://attack.mitre.org/software/S0648"
+    },
+    {
+        "softwareId": "S0325",
+        "softwareName": "Judy",
+        "description": "https://attack.mitre.org/software/S0325"
+    },
+    {
+        "softwareId": "S0215",
+        "softwareName": "KARAE",
+        "description": "https://attack.mitre.org/software/S0215"
+    },
+    {
+        "softwareId": "S0088",
+        "softwareName": "Kasidet",
+        "description": "https://attack.mitre.org/software/S0088"
+    },
+    {
+        "softwareId": "S0265",
+        "softwareName": "Kazuar",
+        "description": "https://attack.mitre.org/software/S0265"
+    },
+    {
+        "softwareId": "S0585",
+        "softwareName": "Kerrdown",
+        "description": "https://attack.mitre.org/software/S0585"
+    },
+    {
+        "softwareId": "S0487",
+        "softwareName": "Kessel",
+        "description": "https://attack.mitre.org/software/S0487"
+    },
+    {
+        "softwareId": "S1020",
+        "softwareName": "Kevin",
+        "description": "https://attack.mitre.org/software/S1020"
+    },
+    {
+        "softwareId": "S0387",
+        "softwareName": "KeyBoy",
+        "description": "https://attack.mitre.org/software/S0387"
+    },
+    {
+        "softwareId": "S0276",
+        "softwareName": "Keydnap",
+        "description": "https://attack.mitre.org/software/S0276"
+    },
+    {
+        "softwareId": "S0271",
+        "softwareName": "KEYMARBLE",
+        "description": "https://attack.mitre.org/software/S0271"
+    },
+    {
+        "softwareId": "S1051",
+        "softwareName": "KEYPLUG",
+        "description": "https://attack.mitre.org/software/S1051"
+    },
+    {
+        "softwareId": "S0288",
+        "softwareName": "KeyRaider",
+        "description": "https://attack.mitre.org/software/S0288"
+    },
+    {
+        "softwareId": "S0526",
+        "softwareName": "KGH_SPY",
+        "description": "https://attack.mitre.org/software/S0526"
+    },
+    {
+        "softwareId": "S0607",
+        "softwareName": "KillDisk",
+        "description": "https://attack.mitre.org/software/S0607"
+    },
+    {
+        "softwareId": "S0599",
+        "softwareName": "Kinsing",
+        "description": "https://attack.mitre.org/software/S0599"
+    },
+    {
+        "softwareId": "S0437",
+        "softwareName": "Kivars",
+        "description": "https://attack.mitre.org/software/S0437"
+    },
+    {
+        "softwareId": "S0250",
+        "softwareName": "Koadic",
+        "description": "https://attack.mitre.org/software/S0250"
+    },
+    {
+        "softwareId": "S0641",
+        "softwareName": "Kobalos",
+        "description": "https://attack.mitre.org/software/S0641"
+    },
+    {
+        "softwareId": "S0669",
+        "softwareName": "KOCTOPUS",
+        "description": "https://attack.mitre.org/software/S0669"
+    },
+    {
+        "softwareId": "S0162",
+        "softwareName": "Komplex",
+        "description": "https://attack.mitre.org/software/S0162"
+    },
+    {
+        "softwareId": "S0156",
+        "softwareName": "KOMPROGO",
+        "description": "https://attack.mitre.org/software/S0156"
+    },
+    {
+        "softwareId": "S0356",
+        "softwareName": "KONNI",
+        "description": "https://attack.mitre.org/software/S0356"
+    },
+    {
+        "softwareId": "S1075",
+        "softwareName": "KOPILUWAK",
+        "description": "https://attack.mitre.org/software/S1075"
+    },
+    {
+        "softwareId": "S0236",
+        "softwareName": "Kwampirs",
+        "description": "https://attack.mitre.org/software/S0236"
+    },
+    {
+        "softwareId": "S0349",
+        "softwareName": "LaZagne",
+        "description": "https://attack.mitre.org/software/S0349"
+    },
+    {
+        "softwareId": "S0395",
+        "softwareName": "LightNeuron",
+        "description": "https://attack.mitre.org/software/S0395"
+    },
+    {
+        "softwareId": "S1119",
+        "softwareName": "LIGHTWIRE",
+        "description": "https://attack.mitre.org/software/S1119"
+    },
+    {
+        "softwareId": "S0211",
+        "softwareName": "Linfo",
+        "description": "https://attack.mitre.org/software/S0211"
+    },
+    {
+        "softwareId": "S0362",
+        "softwareName": "Linux Rabbit",
+        "description": "https://attack.mitre.org/software/S0362"
+    },
+    {
+        "softwareId": "S0513",
+        "softwareName": "LiteDuke",
+        "description": "https://attack.mitre.org/software/S0513"
+    },
+    {
+        "softwareId": "S0680",
+        "softwareName": "LitePower",
+        "description": "https://attack.mitre.org/software/S0680"
+    },
+    {
+        "softwareId": "S1121",
+        "softwareName": "LITTLELAMB.WOOLTEA",
+        "description": "https://attack.mitre.org/software/S1121"
+    },
+    {
+        "softwareId": "S0681",
+        "softwareName": "Lizar",
+        "description": "https://attack.mitre.org/software/S0681"
+    },
+    {
+        "softwareId": "S0372",
+        "softwareName": "LockerGoga",
+        "description": "https://attack.mitre.org/software/S0372"
+    },
+    {
+        "softwareId": "S1101",
+        "softwareName": "LoFiSe",
+        "description": "https://attack.mitre.org/software/S1101"
+    },
+    {
+        "softwareId": "S0397",
+        "softwareName": "LoJax",
+        "description": "https://attack.mitre.org/software/S0397"
+    },
+    {
+        "softwareId": "S0447",
+        "softwareName": "Lokibot",
+        "description": "https://attack.mitre.org/software/S0447"
+    },
+    {
+        "softwareId": "S0582",
+        "softwareName": "LookBack",
+        "description": "https://attack.mitre.org/software/S0582"
+    },
+    {
+        "softwareId": "S0451",
+        "softwareName": "LoudMiner",
+        "description": "https://attack.mitre.org/software/S0451"
+    },
+    {
+        "softwareId": "S0042",
+        "softwareName": "LOWBALL",
+        "description": "https://attack.mitre.org/software/S0042"
+    },
+    {
+        "softwareId": "S0121",
+        "softwareName": "Lslsass",
+        "description": "https://attack.mitre.org/software/S0121"
+    },
+    {
+        "softwareId": "S0532",
+        "softwareName": "Lucifer",
+        "description": "https://attack.mitre.org/software/S0532"
+    },
+    {
+        "softwareId": "S0010",
+        "softwareName": "Lurid",
+        "description": "https://attack.mitre.org/software/S0010"
+    },
+    {
+        "softwareId": "S0409",
+        "softwareName": "Machete",
+        "description": "https://attack.mitre.org/software/S0409"
+    },
+    {
+        "softwareId": "S1016",
+        "softwareName": "MacMa",
+        "description": "https://attack.mitre.org/software/S1016"
+    },
+    {
+        "softwareId": "S1048",
+        "softwareName": "macOS.OSAMiner",
+        "description": "https://attack.mitre.org/software/S1048"
+    },
+    {
+        "softwareId": "S0282",
+        "softwareName": "MacSpy",
+        "description": "https://attack.mitre.org/software/S0282"
+    },
+    {
+        "softwareId": "S1060",
+        "softwareName": "Mafalda",
+        "description": "https://attack.mitre.org/software/S1060"
+    },
+    {
+        "softwareId": "S0413",
+        "softwareName": "MailSniper",
+        "description": "https://attack.mitre.org/software/S0413"
+    },
+    {
+        "softwareId": "S0485",
+        "softwareName": "Mandrake",
+        "description": "https://attack.mitre.org/software/S0485"
+    },
+    {
+        "softwareId": "S0317",
+        "softwareName": "Marcher",
+        "description": "https://attack.mitre.org/software/S0317"
+    },
+    {
+        "softwareId": "S0652",
+        "softwareName": "MarkiRAT",
+        "description": "https://attack.mitre.org/software/S0652"
+    },
+    {
+        "softwareId": "S0167",
+        "softwareName": "Matryoshka",
+        "description": "https://attack.mitre.org/software/S0167"
+    },
+    {
+        "softwareId": "S0303",
+        "softwareName": "MazarBOT",
+        "description": "https://attack.mitre.org/software/S0303"
+    },
+    {
+        "softwareId": "S0449",
+        "softwareName": "Maze",
+        "description": "https://attack.mitre.org/software/S0449"
+    },
+    {
+        "softwareId": "S0500",
+        "softwareName": "MCMD",
+        "description": "https://attack.mitre.org/software/S0500"
+    },
+    {
+        "softwareId": "S0459",
+        "softwareName": "MechaFlounder",
+        "description": "https://attack.mitre.org/software/S0459"
+    },
+    {
+        "softwareId": "S0175",
+        "softwareName": "meek",
+        "description": "https://attack.mitre.org/software/S0175"
+    },
+    {
+        "softwareId": "S0576",
+        "softwareName": "MegaCortex",
+        "description": "https://attack.mitre.org/software/S0576"
+    },
+    {
+        "softwareId": "S0530",
+        "softwareName": "Melcoz",
+        "description": "https://attack.mitre.org/software/S0530"
+    },
+    {
+        "softwareId": "S0443",
+        "softwareName": "MESSAGETAP",
+        "description": "https://attack.mitre.org/software/S0443"
+    },
+    {
+        "softwareId": "S1059",
+        "softwareName": "metaMain",
+        "description": "https://attack.mitre.org/software/S1059"
+    },
+    {
+        "softwareId": "S0455",
+        "softwareName": "Metamorfo",
+        "description": "https://attack.mitre.org/software/S0455"
+    },
+    {
+        "softwareId": "S0688",
+        "softwareName": "Meteor",
+        "description": "https://attack.mitre.org/software/S0688"
+    },
+    {
+        "softwareId": "S0339",
+        "softwareName": "Micropsia",
+        "description": "https://attack.mitre.org/software/S0339"
+    },
+    {
+        "softwareId": "S1015",
+        "softwareName": "Milan",
+        "description": "https://attack.mitre.org/software/S1015"
+    },
+    {
+        "softwareId": "S0002",
+        "softwareName": "Mimikatz",
+        "description": "https://attack.mitre.org/software/S0002"
+    },
+    {
+        "softwareId": "S0179",
+        "softwareName": "MimiPenguin",
+        "description": "https://attack.mitre.org/software/S0179"
+    },
+    {
+        "softwareId": "S0133",
+        "softwareName": "Miner-C",
+        "description": "https://attack.mitre.org/software/S0133"
+    },
+    {
+        "softwareId": "S0051",
+        "softwareName": "MiniDuke",
+        "description": "https://attack.mitre.org/software/S0051"
+    },
+    {
+        "softwareId": "S0280",
+        "softwareName": "MirageFox",
+        "description": "https://attack.mitre.org/software/S0280"
+    },
+    {
+        "softwareId": "S0084",
+        "softwareName": "Mis-Type",
+        "description": "https://attack.mitre.org/software/S0084"
+    },
+    {
+        "softwareId": "S0083",
+        "softwareName": "Misdat",
+        "description": "https://attack.mitre.org/software/S0083"
+    },
+    {
+        "softwareId": "S1122",
+        "softwareName": "Mispadu",
+        "description": "https://attack.mitre.org/software/S1122"
+    },
+    {
+        "softwareId": "S0080",
+        "softwareName": "Mivast",
+        "description": "https://attack.mitre.org/software/S0080"
+    },
+    {
+        "softwareId": "S0079",
+        "softwareName": "MobileOrder",
+        "description": "https://attack.mitre.org/software/S0079"
+    },
+    {
+        "softwareId": "S0553",
+        "softwareName": "MoleNet",
+        "description": "https://attack.mitre.org/software/S0553"
+    },
+    {
+        "softwareId": "S1026",
+        "softwareName": "Mongall",
+        "description": "https://attack.mitre.org/software/S1026"
+    },
+    {
+        "softwareId": "S0407",
+        "softwareName": "Monokle",
+        "description": "https://attack.mitre.org/software/S0407"
+    },
+    {
+        "softwareId": "S0149",
+        "softwareName": "MoonWind",
+        "description": "https://attack.mitre.org/software/S0149"
+    },
+    {
+        "softwareId": "S0284",
+        "softwareName": "More_eggs",
+        "description": "https://attack.mitre.org/software/S0284"
+    },
+    {
+        "softwareId": "S1047",
+        "softwareName": "Mori",
+        "description": "https://attack.mitre.org/software/S1047"
+    },
+    {
+        "softwareId": "S0256",
+        "softwareName": "Mosquito",
+        "description": "https://attack.mitre.org/software/S0256"
+    },
+    {
+        "softwareId": "S0233",
+        "softwareName": "MURKYTOP",
+        "description": "https://attack.mitre.org/software/S0233"
+    },
+    {
+        "softwareId": "S0699",
+        "softwareName": "Mythic",
+        "description": "https://attack.mitre.org/software/S0699"
+    },
+    {
+        "softwareId": "S0205",
+        "softwareName": "Naid",
+        "description": "https://attack.mitre.org/software/S0205"
+    },
+    {
+        "softwareId": "S0228",
+        "softwareName": "NanHaiShu",
+        "description": "https://attack.mitre.org/software/S0228"
+    },
+    {
+        "softwareId": "S0336",
+        "softwareName": "NanoCore",
+        "description": "https://attack.mitre.org/software/S0336"
+    },
+    {
+        "softwareId": "S0637",
+        "softwareName": "NativeZone",
+        "description": "https://attack.mitre.org/software/S0637"
+    },
+    {
+        "softwareId": "S0247",
+        "softwareName": "NavRAT",
+        "description": "https://attack.mitre.org/software/S0247"
+    },
+    {
+        "softwareId": "S0590",
+        "softwareName": "NBTscan",
+        "description": "https://attack.mitre.org/software/S0590"
+    },
+    {
+        "softwareId": "S0102",
+        "softwareName": "nbtstat",
+        "description": "https://attack.mitre.org/software/S0102"
+    },
+    {
+        "softwareId": "S0272",
+        "softwareName": "NDiskMonitor",
+        "description": "https://attack.mitre.org/software/S0272"
+    },
+    {
+        "softwareId": "S0630",
+        "softwareName": "Nebulae",
+        "description": "https://attack.mitre.org/software/S0630"
+    },
+    {
+        "softwareId": "S0691",
+        "softwareName": "Neoichor",
+        "description": "https://attack.mitre.org/software/S0691"
+    },
+    {
+        "softwareId": "S0210",
+        "softwareName": "Nerex",
+        "description": "https://attack.mitre.org/software/S0210"
+    },
+    {
+        "softwareId": "S0039",
+        "softwareName": "Net",
+        "description": "https://attack.mitre.org/software/S0039"
+    },
+    {
+        "softwareId": "S0056",
+        "softwareName": "Net Crawler",
+        "description": "https://attack.mitre.org/software/S0056"
+    },
+    {
+        "softwareId": "S0034",
+        "softwareName": "NETEAGLE",
+        "description": "https://attack.mitre.org/software/S0034"
+    },
+    {
+        "softwareId": "S0108",
+        "softwareName": "netsh",
+        "description": "https://attack.mitre.org/software/S0108"
+    },
+    {
+        "softwareId": "S0104",
+        "softwareName": "netstat",
+        "description": "https://attack.mitre.org/software/S0104"
+    },
+    {
+        "softwareId": "S0033",
+        "softwareName": "NetTraveler",
+        "description": "https://attack.mitre.org/software/S0033"
+    },
+    {
+        "softwareId": "S0457",
+        "softwareName": "Netwalker",
+        "description": "https://attack.mitre.org/software/S0457"
+    },
+    {
+        "softwareId": "S0198",
+        "softwareName": "NETWIRE",
+        "description": "https://attack.mitre.org/software/S0198"
+    },
+    {
+        "softwareId": "S1106",
+        "softwareName": "NGLite",
+        "description": "https://attack.mitre.org/software/S1106"
+    },
+    {
+        "softwareId": "S0508",
+        "softwareName": "ngrok",
+        "description": "https://attack.mitre.org/software/S0508"
+    },
+    {
+        "softwareId": "S0118",
+        "softwareName": "Nidiran",
+        "description": "https://attack.mitre.org/software/S0118"
+    },
+    {
+        "softwareId": "S1090",
+        "softwareName": "NightClub",
+        "description": "https://attack.mitre.org/software/S1090"
+    },
+    {
+        "softwareId": "S1100",
+        "softwareName": "Ninja",
+        "description": "https://attack.mitre.org/software/S1100"
+    },
+    {
+        "softwareId": "S0385",
+        "softwareName": "njRAT",
+        "description": "https://attack.mitre.org/software/S0385"
+    },
+    {
+        "softwareId": "S1107",
+        "softwareName": "NKAbuse",
+        "description": "https://attack.mitre.org/software/S1107"
+    },
+    {
+        "softwareId": "S0359",
+        "softwareName": "Nltest",
+        "description": "https://attack.mitre.org/software/S0359"
+    },
+    {
+        "softwareId": "S0353",
+        "softwareName": "NOKKI",
+        "description": "https://attack.mitre.org/software/S0353"
+    },
+    {
+        "softwareId": "S0299",
+        "softwareName": "NotCompatible",
+        "description": "https://attack.mitre.org/software/S0299"
+    },
+    {
+        "softwareId": "S0368",
+        "softwareName": "NotPetya",
+        "description": "https://attack.mitre.org/software/S0368"
+    },
+    {
+        "softwareId": "S0286",
+        "softwareName": "OBAD",
+        "description": "https://attack.mitre.org/software/S0286"
+    },
+    {
+        "softwareId": "S0644",
+        "softwareName": "ObliqueRAT",
+        "description": "https://attack.mitre.org/software/S0644"
+    },
+    {
+        "softwareId": "S0346",
+        "softwareName": "OceanSalt",
+        "description": "https://attack.mitre.org/software/S0346"
+    },
+    {
+        "softwareId": "S0340",
+        "softwareName": "Octopus",
+        "description": "https://attack.mitre.org/software/S0340"
+    },
+    {
+        "softwareId": "S0439",
+        "softwareName": "Okrum",
+        "description": "https://attack.mitre.org/software/S0439"
+    },
+    {
+        "softwareId": "S0138",
+        "softwareName": "OLDBAIT",
+        "description": "https://attack.mitre.org/software/S0138"
+    },
+    {
+        "softwareId": "S0285",
+        "softwareName": "OldBoot",
+        "description": "https://attack.mitre.org/software/S0285"
+    },
+    {
+        "softwareId": "S0365",
+        "softwareName": "Olympic Destroyer",
+        "description": "https://attack.mitre.org/software/S0365"
+    },
+    {
+        "softwareId": "S0052",
+        "softwareName": "OnionDuke",
+        "description": "https://attack.mitre.org/software/S0052"
+    },
+    {
+        "softwareId": "S0264",
+        "softwareName": "OopsIE",
+        "description": "https://attack.mitre.org/software/S0264"
+    },
+    {
+        "softwareId": "S0229",
+        "softwareName": "Orz",
+        "description": "https://attack.mitre.org/software/S0229"
+    },
+    {
+        "softwareId": "S0165",
+        "softwareName": "OSInfo",
+        "description": "https://attack.mitre.org/software/S0165"
+    },
+    {
+        "softwareId": "S0402",
+        "softwareName": "OSX/Shlayer",
+        "description": "https://attack.mitre.org/software/S0402"
+    },
+    {
+        "softwareId": "S0352",
+        "softwareName": "OSX_OCEANLOTUS.D",
+        "description": "https://attack.mitre.org/software/S0352"
+    },
+    {
+        "softwareId": "S0594",
+        "softwareName": "Out1",
+        "description": "https://attack.mitre.org/software/S0594"
+    },
+    {
+        "softwareId": "S1017",
+        "softwareName": "OutSteel",
+        "description": "https://attack.mitre.org/software/S1017"
+    },
+    {
+        "softwareId": "S0072",
+        "softwareName": "OwaAuth",
+        "description": "https://attack.mitre.org/software/S0072"
+    },
+    {
+        "softwareId": "S0598",
+        "softwareName": "P.A.S. Webshell",
+        "description": "https://attack.mitre.org/software/S0598"
+    },
+    {
+        "softwareId": "S0016",
+        "softwareName": "P2P ZeuS",
+        "description": "https://attack.mitre.org/software/S0016"
+    },
+    {
+        "softwareId": "S0626",
+        "softwareName": "P8RAT",
+        "description": "https://attack.mitre.org/software/S0626"
+    },
+    {
+        "softwareId": "S1109",
+        "softwareName": "PACEMAKER",
+        "description": "https://attack.mitre.org/software/S1109"
+    },
+    {
+        "softwareId": "S1091",
+        "softwareName": "Pacu",
+        "description": "https://attack.mitre.org/software/S1091"
+    },
+    {
+        "softwareId": "S0399",
+        "softwareName": "Pallas",
+        "description": "https://attack.mitre.org/software/S0399"
+    },
+    {
+        "softwareId": "S0664",
+        "softwareName": "Pandora",
+        "description": "https://attack.mitre.org/software/S0664"
+    },
+    {
+        "softwareId": "S0208",
+        "softwareName": "Pasam",
+        "description": "https://attack.mitre.org/software/S0208"
+    },
+    {
+        "softwareId": "S0122",
+        "softwareName": "Pass-The-Hash Toolkit",
+        "description": "https://attack.mitre.org/software/S0122"
+    },
+    {
+        "softwareId": "S0556",
+        "softwareName": "Pay2Key",
+        "description": "https://attack.mitre.org/software/S0556"
+    },
+    {
+        "softwareId": "S1102",
+        "softwareName": "Pcexter",
+        "description": "https://attack.mitre.org/software/S1102"
+    },
+    {
+        "softwareId": "S1050",
+        "softwareName": "PcShare",
+        "description": "https://attack.mitre.org/software/S1050"
+    },
+    {
+        "softwareId": "S0316",
+        "softwareName": "Pegasus for Android",
+        "description": "https://attack.mitre.org/software/S0316"
+    },
+    {
+        "softwareId": "S0289",
+        "softwareName": "Pegasus for iOS",
+        "description": "https://attack.mitre.org/software/S0289"
+    },
+    {
+        "softwareId": "S0683",
+        "softwareName": "Peirates",
+        "description": "https://attack.mitre.org/software/S0683"
+    },
+    {
+        "softwareId": "S0587",
+        "softwareName": "Penquin",
+        "description": "https://attack.mitre.org/software/S0587"
+    },
+    {
+        "softwareId": "S0643",
+        "softwareName": "Peppy",
+        "description": "https://attack.mitre.org/software/S0643"
+    },
+    {
+        "softwareId": "S1126",
+        "softwareName": "Phenakite",
+        "description": "https://attack.mitre.org/software/S1126"
+    },
+    {
+        "softwareId": "S0158",
+        "softwareName": "PHOREAL",
+        "description": "https://attack.mitre.org/software/S0158"
+    },
+    {
+        "softwareId": "S0517",
+        "softwareName": "Pillowmint",
+        "description": "https://attack.mitre.org/software/S0517"
+    },
+    {
+        "softwareId": "S0048",
+        "softwareName": "PinchDuke",
+        "description": "https://attack.mitre.org/software/S0048"
+    },
+    {
+        "softwareId": "S0097",
+        "softwareName": "Ping",
+        "description": "https://attack.mitre.org/software/S0097"
+    },
+    {
+        "softwareId": "S1031",
+        "softwareName": "PingPull",
+        "description": "https://attack.mitre.org/software/S1031"
+    },
+    {
+        "softwareId": "S0501",
+        "softwareName": "PipeMon",
+        "description": "https://attack.mitre.org/software/S0501"
+    },
+    {
+        "softwareId": "S0124",
+        "softwareName": "Pisloader",
+        "description": "https://attack.mitre.org/software/S0124"
+    },
+    {
+        "softwareId": "S1123",
+        "softwareName": "PITSTOP",
+        "description": "https://attack.mitre.org/software/S1123"
+    },
+    {
+        "softwareId": "S0291",
+        "softwareName": "PJApps",
+        "description": "https://attack.mitre.org/software/S0291"
+    },
+    {
+        "softwareId": "S0254",
+        "softwareName": "PLAINTEE",
+        "description": "https://attack.mitre.org/software/S0254"
+    },
+    {
+        "softwareId": "S1006",
+        "softwareName": "PLC-Blaster",
+        "description": "https://attack.mitre.org/software/S1006"
+    },
+    {
+        "softwareId": "S0435",
+        "softwareName": "PLEAD",
+        "description": "https://attack.mitre.org/software/S0435"
+    },
+    {
+        "softwareId": "S0013",
+        "softwareName": "PlugX",
+        "description": "https://attack.mitre.org/software/S0013"
+    },
+    {
+        "softwareId": "S0067",
+        "softwareName": "pngdowner",
+        "description": "https://attack.mitre.org/software/S0067"
+    },
+    {
+        "softwareId": "S0428",
+        "softwareName": "PoetRAT",
+        "description": "https://attack.mitre.org/software/S0428"
+    },
+    {
+        "softwareId": "S0012",
+        "softwareName": "PoisonIvy",
+        "description": "https://attack.mitre.org/software/S0012"
+    },
+    {
+        "softwareId": "S0518",
+        "softwareName": "PolyglotDuke",
+        "description": "https://attack.mitre.org/software/S0518"
+    },
+    {
+        "softwareId": "S0453",
+        "softwareName": "Pony",
+        "description": "https://attack.mitre.org/software/S0453"
+    },
+    {
+        "softwareId": "S0216",
+        "softwareName": "POORAIM",
+        "description": "https://attack.mitre.org/software/S0216"
+    },
+    {
+        "softwareId": "S0378",
+        "softwareName": "PoshC2",
+        "description": "https://attack.mitre.org/software/S0378"
+    },
+    {
+        "softwareId": "S0150",
+        "softwareName": "POSHSPY",
+        "description": "https://attack.mitre.org/software/S0150"
+    },
+    {
+        "softwareId": "S0177",
+        "softwareName": "Power Loader",
+        "description": "https://attack.mitre.org/software/S0177"
+    },
+    {
+        "softwareId": "S0139",
+        "softwareName": "PowerDuke",
+        "description": "https://attack.mitre.org/software/S0139"
+    },
+    {
+        "softwareId": "S1012",
+        "softwareName": "PowerLess",
+        "description": "https://attack.mitre.org/software/S1012"
+    },
+    {
+        "softwareId": "S0685",
+        "softwareName": "PowerPunch",
+        "description": "https://attack.mitre.org/software/S0685"
+    },
+    {
+        "softwareId": "S0441",
+        "softwareName": "PowerShower",
+        "description": "https://attack.mitre.org/software/S0441"
+    },
+    {
+        "softwareId": "S0145",
+        "softwareName": "POWERSOURCE",
+        "description": "https://attack.mitre.org/software/S0145"
+    },
+    {
+        "softwareId": "S0194",
+        "softwareName": "PowerSploit",
+        "description": "https://attack.mitre.org/software/S0194"
+    },
+    {
+        "softwareId": "S0393",
+        "softwareName": "PowerStallion",
+        "description": "https://attack.mitre.org/software/S0393"
+    },
+    {
+        "softwareId": "S0223",
+        "softwareName": "POWERSTATS",
+        "description": "https://attack.mitre.org/software/S0223"
+    },
+    {
+        "softwareId": "S0371",
+        "softwareName": "POWERTON",
+        "description": "https://attack.mitre.org/software/S0371"
+    },
+    {
+        "softwareId": "S1046",
+        "softwareName": "PowGoop",
+        "description": "https://attack.mitre.org/software/S1046"
+    },
+    {
+        "softwareId": "S0184",
+        "softwareName": "POWRUNER",
+        "description": "https://attack.mitre.org/software/S0184"
+    },
+    {
+        "softwareId": "S1058",
+        "softwareName": "Prestige",
+        "description": "https://attack.mitre.org/software/S1058"
+    },
+    {
+        "softwareId": "S0113",
+        "softwareName": "Prikormka",
+        "description": "https://attack.mitre.org/software/S0113"
+    },
+    {
+        "softwareId": "S0654",
+        "softwareName": "ProLock",
+        "description": "https://attack.mitre.org/software/S0654"
+    },
+    {
+        "softwareId": "S0279",
+        "softwareName": "Proton",
+        "description": "https://attack.mitre.org/software/S0279"
+    },
+    {
+        "softwareId": "S0238",
+        "softwareName": "Proxysvc",
+        "description": "https://attack.mitre.org/software/S0238"
+    },
+    {
+        "softwareId": "S0613",
+        "softwareName": "PS1",
+        "description": "https://attack.mitre.org/software/S0613"
+    },
+    {
+        "softwareId": "S0029",
+        "softwareName": "PsExec",
+        "description": "https://attack.mitre.org/software/S0029"
+    },
+    {
+        "softwareId": "S0078",
+        "softwareName": "Psylo",
+        "description": "https://attack.mitre.org/software/S0078"
+    },
+    {
+        "softwareId": "S0147",
+        "softwareName": "Pteranodon",
+        "description": "https://attack.mitre.org/software/S0147"
+    },
+    {
+        "softwareId": "S1108",
+        "softwareName": "PULSECHECK",
+        "description": "https://attack.mitre.org/software/S1108"
+    },
+    {
+        "softwareId": "S0196",
+        "softwareName": "PUNCHBUGGY",
+        "description": "https://attack.mitre.org/software/S0196"
+    },
+    {
+        "softwareId": "S0197",
+        "softwareName": "PUNCHTRACK",
+        "description": "https://attack.mitre.org/software/S0197"
+    },
+    {
+        "softwareId": "S0192",
+        "softwareName": "Pupy",
+        "description": "https://attack.mitre.org/software/S0192"
+    },
+    {
+        "softwareId": "S0006",
+        "softwareName": "pwdump",
+        "description": "https://attack.mitre.org/software/S0006"
+    },
+    {
+        "softwareId": "S1032",
+        "softwareName": "PyDCrypt",
+        "description": "https://attack.mitre.org/software/S1032"
+    },
+    {
+        "softwareId": "S0583",
+        "softwareName": "Pysa",
+        "description": "https://attack.mitre.org/software/S0583"
+    },
+    {
+        "softwareId": "S0650",
+        "softwareName": "QakBot",
+        "description": "https://attack.mitre.org/software/S0650"
+    },
+    {
+        "softwareId": "S0269",
+        "softwareName": "QUADAGENT",
+        "description": "https://attack.mitre.org/software/S0269"
+    },
+    {
+        "softwareId": "S0262",
+        "softwareName": "QuasarRAT",
+        "description": "https://attack.mitre.org/software/S0262"
+    },
+    {
+        "softwareId": "S1076",
+        "softwareName": "QUIETCANARY",
+        "description": "https://attack.mitre.org/software/S1076"
+    },
+    {
+        "softwareId": "S1084",
+        "softwareName": "QUIETEXIT",
+        "description": "https://attack.mitre.org/software/S1084"
+    },
+    {
+        "softwareId": "S0686",
+        "softwareName": "QuietSieve",
+        "description": "https://attack.mitre.org/software/S0686"
+    },
+    {
+        "softwareId": "S0481",
+        "softwareName": "Ragnar Locker",
+        "description": "https://attack.mitre.org/software/S0481"
+    },
+    {
+        "softwareId": "S0565",
+        "softwareName": "Raindrop",
+        "description": "https://attack.mitre.org/software/S0565"
+    },
+    {
+        "softwareId": "S0629",
+        "softwareName": "RainyDay",
+        "description": "https://attack.mitre.org/software/S0629"
+    },
+    {
+        "softwareId": "S0458",
+        "softwareName": "Ramsay",
+        "description": "https://attack.mitre.org/software/S0458"
+    },
+    {
+        "softwareId": "S1113",
+        "softwareName": "RAPIDPULSE",
+        "description": "https://attack.mitre.org/software/S1113"
+    },
+    {
+        "softwareId": "S0055",
+        "softwareName": "RARSTONE",
+        "description": "https://attack.mitre.org/software/S0055"
+    },
+    {
+        "softwareId": "S0241",
+        "softwareName": "RATANKBA",
+        "description": "https://attack.mitre.org/software/S0241"
+    },
+    {
+        "softwareId": "S0364",
+        "softwareName": "RawDisk",
+        "description": "https://attack.mitre.org/software/S0364"
+    },
+    {
+        "softwareId": "S0169",
+        "softwareName": "RawPOS",
+        "description": "https://attack.mitre.org/software/S0169"
+    },
+    {
+        "softwareId": "S1040",
+        "softwareName": "Rclone",
+        "description": "https://attack.mitre.org/software/S1040"
+    },
+    {
+        "softwareId": "S0295",
+        "softwareName": "RCSAndroid",
+        "description": "https://attack.mitre.org/software/S0295"
+    },
+    {
+        "softwareId": "S0662",
+        "softwareName": "RCSession",
+        "description": "https://attack.mitre.org/software/S0662"
+    },
+    {
+        "softwareId": "S0495",
+        "softwareName": "RDAT",
+        "description": "https://attack.mitre.org/software/S0495"
+    },
+    {
+        "softwareId": "S0416",
+        "softwareName": "RDFSNIFFER",
+        "description": "https://attack.mitre.org/software/S0416"
+    },
+    {
+        "softwareId": "S0172",
+        "softwareName": "Reaver",
+        "description": "https://attack.mitre.org/software/S0172"
+    },
+    {
+        "softwareId": "S0539",
+        "softwareName": "Red Alert 2.0",
+        "description": "https://attack.mitre.org/software/S0539"
+    },
+    {
+        "softwareId": "S0326",
+        "softwareName": "RedDrop",
+        "description": "https://attack.mitre.org/software/S0326"
+    },
+    {
+        "softwareId": "S0153",
+        "softwareName": "RedLeaves",
+        "description": "https://attack.mitre.org/software/S0153"
+    },
+    {
+        "softwareId": "S0075",
+        "softwareName": "Reg",
+        "description": "https://attack.mitre.org/software/S0075"
+    },
+    {
+        "softwareId": "S0511",
+        "softwareName": "RegDuke",
+        "description": "https://attack.mitre.org/software/S0511"
+    },
+    {
+        "softwareId": "S0019",
+        "softwareName": "Regin",
+        "description": "https://attack.mitre.org/software/S0019"
+    },
+    {
+        "softwareId": "S0332",
+        "softwareName": "Remcos",
+        "description": "https://attack.mitre.org/software/S0332"
+    },
+    {
+        "softwareId": "S0375",
+        "softwareName": "Remexi",
+        "description": "https://attack.mitre.org/software/S0375"
+    },
+    {
+        "softwareId": "S0166",
+        "softwareName": "RemoteCMD",
+        "description": "https://attack.mitre.org/software/S0166"
+    },
+    {
+        "softwareId": "S0592",
+        "softwareName": "RemoteUtilities",
+        "description": "https://attack.mitre.org/software/S0592"
+    },
+    {
+        "softwareId": "S0125",
+        "softwareName": "Remsec",
+        "description": "https://attack.mitre.org/software/S0125"
+    },
+    {
+        "softwareId": "S0174",
+        "softwareName": "Responder",
+        "description": "https://attack.mitre.org/software/S0174"
+    },
+    {
+        "softwareId": "S0379",
+        "softwareName": "Revenge RAT",
+        "description": "https://attack.mitre.org/software/S0379"
+    },
+    {
+        "softwareId": "S0496",
+        "softwareName": "REvil",
+        "description": "https://attack.mitre.org/software/S0496"
+    },
+    {
+        "softwareId": "S0258",
+        "softwareName": "RGDoor",
+        "description": "https://attack.mitre.org/software/S0258"
+    },
+    {
+        "softwareId": "S0433",
+        "softwareName": "Rifdoor",
+        "description": "https://attack.mitre.org/software/S0433"
+    },
+    {
+        "softwareId": "S0403",
+        "softwareName": "Riltok",
+        "description": "https://attack.mitre.org/software/S0403"
+    },
+    {
+        "softwareId": "S0003",
+        "softwareName": "RIPTIDE",
+        "description": "https://attack.mitre.org/software/S0003"
+    },
+    {
+        "softwareId": "S0448",
+        "softwareName": "Rising Sun",
+        "description": "https://attack.mitre.org/software/S0448"
+    },
+    {
+        "softwareId": "S0684",
+        "softwareName": "ROADTools",
+        "description": "https://attack.mitre.org/software/S0684"
+    },
+    {
+        "softwareId": "S0400",
+        "softwareName": "RobbinHood",
+        "description": "https://attack.mitre.org/software/S0400"
+    },
+    {
+        "softwareId": "S0112",
+        "softwareName": "ROCKBOOT",
+        "description": "https://attack.mitre.org/software/S0112"
+    },
+    {
+        "softwareId": "S0270",
+        "softwareName": "RogueRobin",
+        "description": "https://attack.mitre.org/software/S0270"
+    },
+    {
+        "softwareId": "S0240",
+        "softwareName": "ROKRAT",
+        "description": "https://attack.mitre.org/software/S0240"
+    },
+    {
+        "softwareId": "S1078",
+        "softwareName": "RotaJakiro",
+        "description": "https://attack.mitre.org/software/S1078"
+    },
+    {
+        "softwareId": "S0411",
+        "softwareName": "Rotexy",
+        "description": "https://attack.mitre.org/software/S0411"
+    },
+    {
+        "softwareId": "S0103",
+        "softwareName": "route",
+        "description": "https://attack.mitre.org/software/S0103"
+    },
+    {
+        "softwareId": "S0090",
+        "softwareName": "Rover",
+        "description": "https://attack.mitre.org/software/S0090"
+    },
+    {
+        "softwareId": "S1073",
+        "softwareName": "Royal",
+        "description": "https://attack.mitre.org/software/S1073"
+    },
+    {
+        "softwareId": "S0148",
+        "softwareName": "RTM",
+        "description": "https://attack.mitre.org/software/S0148"
+    },
+    {
+        "softwareId": "S1071",
+        "softwareName": "Rubeus",
+        "description": "https://attack.mitre.org/software/S1071"
+    },
+    {
+        "softwareId": "S0358",
+        "softwareName": "Ruler",
+        "description": "https://attack.mitre.org/software/S0358"
+    },
+    {
+        "softwareId": "S0313",
+        "softwareName": "RuMMS",
+        "description": "https://attack.mitre.org/software/S0313"
+    },
+    {
+        "softwareId": "S0253",
+        "softwareName": "RunningRAT",
+        "description": "https://attack.mitre.org/software/S0253"
+    },
+    {
+        "softwareId": "S0446",
+        "softwareName": "Ryuk",
+        "description": "https://attack.mitre.org/software/S0446"
+    },
+    {
+        "softwareId": "S0085",
+        "softwareName": "S-Type",
+        "description": "https://attack.mitre.org/software/S0085"
+    },
+    {
+        "softwareId": "S1062",
+        "softwareName": "S.O.V.A.",
+        "description": "https://attack.mitre.org/software/S1062"
+    },
+    {
+        "softwareId": "S1018",
+        "softwareName": "Saint Bot",
+        "description": "https://attack.mitre.org/software/S1018"
+    },
+    {
+        "softwareId": "S0074",
+        "softwareName": "Sakula",
+        "description": "https://attack.mitre.org/software/S0074"
+    },
+    {
+        "softwareId": "S0370",
+        "softwareName": "SamSam",
+        "description": "https://attack.mitre.org/software/S0370"
+    },
+    {
+        "softwareId": "S1099",
+        "softwareName": "Samurai",
+        "description": "https://attack.mitre.org/software/S1099"
+    },
+    {
+        "softwareId": "S1085",
+        "softwareName": "Sardonic",
+        "description": "https://attack.mitre.org/software/S1085"
+    },
+    {
+        "softwareId": "S0111",
+        "softwareName": "schtasks",
+        "description": "https://attack.mitre.org/software/S0111"
+    },
+    {
+        "softwareId": "S0461",
+        "softwareName": "SDBbot",
+        "description": "https://attack.mitre.org/software/S0461"
+    },
+    {
+        "softwareId": "S0195",
+        "softwareName": "SDelete",
+        "description": "https://attack.mitre.org/software/S0195"
+    },
+    {
+        "softwareId": "S0053",
+        "softwareName": "SeaDuke",
+        "description": "https://attack.mitre.org/software/S0053"
+    },
+    {
+        "softwareId": "S0345",
+        "softwareName": "Seasalt",
+        "description": "https://attack.mitre.org/software/S0345"
+    },
+    {
+        "softwareId": "S0185",
+        "softwareName": "SEASHARPEE",
+        "description": "https://attack.mitre.org/software/S0185"
+    },
+    {
+        "softwareId": "S0382",
+        "softwareName": "ServHelper",
+        "description": "https://attack.mitre.org/software/S0382"
+    },
+    {
+        "softwareId": "S0639",
+        "softwareName": "Seth-Locker",
+        "description": "https://attack.mitre.org/software/S0639"
+    },
+    {
+        "softwareId": "S0596",
+        "softwareName": "ShadowPad",
+        "description": "https://attack.mitre.org/software/S0596"
+    },
+    {
+        "softwareId": "S0140",
+        "softwareName": "Shamoon",
+        "description": "https://attack.mitre.org/software/S0140"
+    },
+    {
+        "softwareId": "S1019",
+        "softwareName": "Shark",
+        "description": "https://attack.mitre.org/software/S1019"
+    },
+    {
+        "softwareId": "S1055",
+        "softwareName": "SharkBot",
+        "description": "https://attack.mitre.org/software/S1055"
+    },
+    {
+        "softwareId": "S1089",
+        "softwareName": "SharpDisco",
+        "description": "https://attack.mitre.org/software/S1089"
+    },
+    {
+        "softwareId": "S0546",
+        "softwareName": "SharpStage",
+        "description": "https://attack.mitre.org/software/S0546"
+    },
+    {
+        "softwareId": "S0450",
+        "softwareName": "SHARPSTATS",
+        "description": "https://attack.mitre.org/software/S0450"
+    },
+    {
+        "softwareId": "S0294",
+        "softwareName": "ShiftyBug",
+        "description": "https://attack.mitre.org/software/S0294"
+    },
+    {
+        "softwareId": "S0444",
+        "softwareName": "ShimRat",
+        "description": "https://attack.mitre.org/software/S0444"
+    },
+    {
+        "softwareId": "S0445",
+        "softwareName": "ShimRatReporter",
+        "description": "https://attack.mitre.org/software/S0445"
+    },
+    {
+        "softwareId": "S0028",
+        "softwareName": "SHIPSHAPE",
+        "description": "https://attack.mitre.org/software/S0028"
+    },
+    {
+        "softwareId": "S0063",
+        "softwareName": "SHOTPUT",
+        "description": "https://attack.mitre.org/software/S0063"
+    },
+    {
+        "softwareId": "S0217",
+        "softwareName": "SHUTTERSPEED",
+        "description": "https://attack.mitre.org/software/S0217"
+    },
+    {
+        "softwareId": "S0589",
+        "softwareName": "Sibot",
+        "description": "https://attack.mitre.org/software/S0589"
+    },
+    {
+        "softwareId": "S0610",
+        "softwareName": "SideTwist",
+        "description": "https://attack.mitre.org/software/S0610"
+    },
+    {
+        "softwareId": "S0692",
+        "softwareName": "SILENTTRINITY",
+        "description": "https://attack.mitre.org/software/S0692"
+    },
+    {
+        "softwareId": "S0549",
+        "softwareName": "SilkBean",
+        "description": "https://attack.mitre.org/software/S0549"
+    },
+    {
+        "softwareId": "S0623",
+        "softwareName": "Siloscape",
+        "description": "https://attack.mitre.org/software/S0623"
+    },
+    {
+        "softwareId": "S0419",
+        "softwareName": "SimBad",
+        "description": "https://attack.mitre.org/software/S0419"
+    },
+    {
+        "softwareId": "S0007",
+        "softwareName": "Skeleton Key",
+        "description": "https://attack.mitre.org/software/S0007"
+    },
+    {
+        "softwareId": "S0468",
+        "softwareName": "Skidmap",
+        "description": "https://attack.mitre.org/software/S0468"
+    },
+    {
+        "softwareId": "S0327",
+        "softwareName": "Skygofree",
+        "description": "https://attack.mitre.org/software/S0327"
+    },
+    {
+        "softwareId": "S1110",
+        "softwareName": "SLIGHTPULSE",
+        "description": "https://attack.mitre.org/software/S1110"
+    },
+    {
+        "softwareId": "S0633",
+        "softwareName": "Sliver",
+        "description": "https://attack.mitre.org/software/S0633"
+    },
+    {
+        "softwareId": "S0533",
+        "softwareName": "SLOTHFULMEDIA",
+        "description": "https://attack.mitre.org/software/S0533"
+    },
+    {
+        "softwareId": "S0218",
+        "softwareName": "SLOWDRIFT",
+        "description": "https://attack.mitre.org/software/S0218"
+    },
+    {
+        "softwareId": "S1104",
+        "softwareName": "SLOWPULSE",
+        "description": "https://attack.mitre.org/software/S1104"
+    },
+    {
+        "softwareId": "S1035",
+        "softwareName": "Small Sieve",
+        "description": "https://attack.mitre.org/software/S1035"
+    },
+    {
+        "softwareId": "S0226",
+        "softwareName": "Smoke Loader",
+        "description": "https://attack.mitre.org/software/S0226"
+    },
+    {
+        "softwareId": "S0649",
+        "softwareName": "SMOKEDHAM",
+        "description": "https://attack.mitre.org/software/S0649"
+    },
+    {
+        "softwareId": "S1086",
+        "softwareName": "Snip3",
+        "description": "https://attack.mitre.org/software/S1086"
+    },
+    {
+        "softwareId": "S0159",
+        "softwareName": "SNUGRIDE",
+        "description": "https://attack.mitre.org/software/S0159"
+    },
+    {
+        "softwareId": "S1124",
+        "softwareName": "SocGholish",
+        "description": "https://attack.mitre.org/software/S1124"
+    },
+    {
+        "softwareId": "S0273",
+        "softwareName": "Socksbot",
+        "description": "https://attack.mitre.org/software/S0273"
+    },
+    {
+        "softwareId": "S0627",
+        "softwareName": "SodaMaster",
+        "description": "https://attack.mitre.org/software/S0627"
+    },
+    {
+        "softwareId": "S0615",
+        "softwareName": "SombRAT",
+        "description": "https://attack.mitre.org/software/S0615"
+    },
+    {
+        "softwareId": "S0516",
+        "softwareName": "SoreFang",
+        "description": "https://attack.mitre.org/software/S0516"
+    },
+    {
+        "softwareId": "S0157",
+        "softwareName": "SOUNDBITE",
+        "description": "https://attack.mitre.org/software/S0157"
+    },
+    {
+        "softwareId": "S0035",
+        "softwareName": "SPACESHIP",
+        "description": "https://attack.mitre.org/software/S0035"
+    },
+    {
+        "softwareId": "S0543",
+        "softwareName": "Spark",
+        "description": "https://attack.mitre.org/software/S0543"
+    },
+    {
+        "softwareId": "S0374",
+        "softwareName": "SpeakUp",
+        "description": "https://attack.mitre.org/software/S0374"
+    },
+    {
+        "softwareId": "S0646",
+        "softwareName": "SpicyOmelette",
+        "description": "https://attack.mitre.org/software/S0646"
+    },
+    {
+        "softwareId": "S0227",
+        "softwareName": "spwebmember",
+        "description": "https://attack.mitre.org/software/S0227"
+    },
+    {
+        "softwareId": "S0324",
+        "softwareName": "SpyDealer",
+        "description": "https://attack.mitre.org/software/S0324"
+    },
+    {
+        "softwareId": "S0305",
+        "softwareName": "SpyNote RAT",
+        "description": "https://attack.mitre.org/software/S0305"
+    },
+    {
+        "softwareId": "S0225",
+        "softwareName": "sqlmap",
+        "description": "https://attack.mitre.org/software/S0225"
+    },
+    {
+        "softwareId": "S0390",
+        "softwareName": "SQLRat",
+        "description": "https://attack.mitre.org/software/S0390"
+    },
+    {
+        "softwareId": "S1030",
+        "softwareName": "Squirrelwaffle",
+        "description": "https://attack.mitre.org/software/S1030"
+    },
+    {
+        "softwareId": "S0058",
+        "softwareName": "SslMM",
+        "description": "https://attack.mitre.org/software/S0058"
+    },
+    {
+        "softwareId": "S0188",
+        "softwareName": "Starloader",
+        "description": "https://attack.mitre.org/software/S0188"
+    },
+    {
+        "softwareId": "S1037",
+        "softwareName": "STARWHALE",
+        "description": "https://attack.mitre.org/software/S1037"
+    },
+    {
+        "softwareId": "S1112",
+        "softwareName": "STEADYPULSE",
+        "description": "https://attack.mitre.org/software/S1112"
+    },
+    {
+        "softwareId": "S0328",
+        "softwareName": "Stealth Mango",
+        "description": "https://attack.mitre.org/software/S0328"
+    },
+    {
+        "softwareId": "S0380",
+        "softwareName": "StoneDrill",
+        "description": "https://attack.mitre.org/software/S0380"
+    },
+    {
+        "softwareId": "S0142",
+        "softwareName": "StreamEx",
+        "description": "https://attack.mitre.org/software/S0142"
+    },
+    {
+        "softwareId": "S1034",
+        "softwareName": "StrifeWater",
+        "description": "https://attack.mitre.org/software/S1034"
+    },
+    {
+        "softwareId": "S0491",
+        "softwareName": "StrongPity",
+        "description": "https://attack.mitre.org/software/S0491"
+    },
+    {
+        "softwareId": "S0603",
+        "softwareName": "Stuxnet",
+        "description": "https://attack.mitre.org/software/S0603"
+    },
+    {
+        "softwareId": "S1042",
+        "softwareName": "SUGARDUMP",
+        "description": "https://attack.mitre.org/software/S1042"
+    },
+    {
+        "softwareId": "S1049",
+        "softwareName": "SUGARUSH",
+        "description": "https://attack.mitre.org/software/S1049"
+    },
+    {
+        "softwareId": "S1082",
+        "softwareName": "Sunbird",
+        "description": "https://attack.mitre.org/software/S1082"
+    },
+    {
+        "softwareId": "S0559",
+        "softwareName": "SUNBURST",
+        "description": "https://attack.mitre.org/software/S0559"
+    },
+    {
+        "softwareId": "S0562",
+        "softwareName": "SUNSPOT",
+        "description": "https://attack.mitre.org/software/S0562"
+    },
+    {
+        "softwareId": "S0578",
+        "softwareName": "SUPERNOVA",
+        "description": "https://attack.mitre.org/software/S0578"
+    },
+    {
+        "softwareId": "S1064",
+        "softwareName": "SVCReady",
+        "description": "https://attack.mitre.org/software/S1064"
+    },
+    {
+        "softwareId": "S0018",
+        "softwareName": "Sykipot",
+        "description": "https://attack.mitre.org/software/S0018"
+    },
+    {
+        "softwareId": "S0242",
+        "softwareName": "SynAck",
+        "description": "https://attack.mitre.org/software/S0242"
+    },
+    {
+        "softwareId": "S0519",
+        "softwareName": "SYNful Knock",
+        "description": "https://attack.mitre.org/software/S0519"
+    },
+    {
+        "softwareId": "S0060",
+        "softwareName": "Sys10",
+        "description": "https://attack.mitre.org/software/S0060"
+    },
+    {
+        "softwareId": "S0464",
+        "softwareName": "SYSCON",
+        "description": "https://attack.mitre.org/software/S0464"
+    },
+    {
+        "softwareId": "S0096",
+        "softwareName": "Systeminfo",
+        "description": "https://attack.mitre.org/software/S0096"
+    },
+    {
+        "softwareId": "S0663",
+        "softwareName": "SysUpdate",
+        "description": "https://attack.mitre.org/software/S0663"
+    },
+    {
+        "softwareId": "S0098",
+        "softwareName": "T9000",
+        "description": "https://attack.mitre.org/software/S0098"
+    },
+    {
+        "softwareId": "S0011",
+        "softwareName": "Taidoor",
+        "description": "https://attack.mitre.org/software/S0011"
+    },
+    {
+        "softwareId": "S0586",
+        "softwareName": "TAINTEDSCRIBE",
+        "description": "https://attack.mitre.org/software/S0586"
+    },
+    {
+        "softwareId": "S0467",
+        "softwareName": "TajMahal",
+        "description": "https://attack.mitre.org/software/S0467"
+    },
+    {
+        "softwareId": "S0329",
+        "softwareName": "Tangelo",
+        "description": "https://attack.mitre.org/software/S0329"
+    },
+    {
+        "softwareId": "S1069",
+        "softwareName": "TangleBot",
+        "description": "https://attack.mitre.org/software/S1069"
+    },
+    {
+        "softwareId": "S1011",
+        "softwareName": "Tarrask",
+        "description": "https://attack.mitre.org/software/S1011"
+    },
+    {
+        "softwareId": "S0057",
+        "softwareName": "Tasklist",
+        "description": "https://attack.mitre.org/software/S0057"
+    },
+    {
+        "softwareId": "S0164",
+        "softwareName": "TDTESS",
+        "description": "https://attack.mitre.org/software/S0164"
+    },
+    {
+        "softwareId": "S0560",
+        "softwareName": "TEARDROP",
+        "description": "https://attack.mitre.org/software/S0560"
+    },
+    {
+        "softwareId": "S0545",
+        "softwareName": "TERRACOTTA",
+        "description": "https://attack.mitre.org/software/S0545"
+    },
+    {
+        "softwareId": "S0146",
+        "softwareName": "TEXTMATE",
+        "description": "https://attack.mitre.org/software/S0146"
+    },
+    {
+        "softwareId": "S0595",
+        "softwareName": "ThiefQuest",
+        "description": "https://attack.mitre.org/software/S0595"
+    },
+    {
+        "softwareId": "S0665",
+        "softwareName": "ThreatNeedle",
+        "description": "https://attack.mitre.org/software/S0665"
+    },
+    {
+        "softwareId": "S1056",
+        "softwareName": "TianySpy",
+        "description": "https://attack.mitre.org/software/S1056"
+    },
+    {
+        "softwareId": "S0558",
+        "softwareName": "Tiktok Pro",
+        "description": "https://attack.mitre.org/software/S0558"
+    },
+    {
+        "softwareId": "S0668",
+        "softwareName": "TinyTurla",
+        "description": "https://attack.mitre.org/software/S0668"
+    },
+    {
+        "softwareId": "S0131",
+        "softwareName": "TINYTYPHON",
+        "description": "https://attack.mitre.org/software/S0131"
+    },
+    {
+        "softwareId": "S0004",
+        "softwareName": "TinyZBot",
+        "description": "https://attack.mitre.org/software/S0004"
+    },
+    {
+        "softwareId": "S0671",
+        "softwareName": "Tomiris",
+        "description": "https://attack.mitre.org/software/S0671"
+    },
+    {
+        "softwareId": "S0183",
+        "softwareName": "Tor",
+        "description": "https://attack.mitre.org/software/S0183"
+    },
+    {
+        "softwareId": "S0678",
+        "softwareName": "Torisma",
+        "description": "https://attack.mitre.org/software/S0678"
+    },
+    {
+        "softwareId": "S0682",
+        "softwareName": "TrailBlazer",
+        "description": "https://attack.mitre.org/software/S0682"
+    },
+    {
+        "softwareId": "S0424",
+        "softwareName": "Triada",
+        "description": "https://attack.mitre.org/software/S0424"
+    },
+    {
+        "softwareId": "S0266",
+        "softwareName": "TrickBot",
+        "description": "https://attack.mitre.org/software/S0266"
+    },
+    {
+        "softwareId": "S0427",
+        "softwareName": "TrickMo",
+        "description": "https://attack.mitre.org/software/S0427"
+    },
+    {
+        "softwareId": "S1009",
+        "softwareName": "Triton",
+        "description": "https://attack.mitre.org/software/S1009"
+    },
+    {
+        "softwareId": "S0307",
+        "softwareName": "Trojan-SMS.AndroidOS.Agent.ao",
+        "description": "https://attack.mitre.org/software/S0307"
+    },
+    {
+        "softwareId": "S0306",
+        "softwareName": "Trojan-SMS.AndroidOS.FakeInst.a",
+        "description": "https://attack.mitre.org/software/S0306"
+    },
+    {
+        "softwareId": "S0308",
+        "softwareName": "Trojan-SMS.AndroidOS.OpFake.a",
+        "description": "https://attack.mitre.org/software/S0308"
+    },
+    {
+        "softwareId": "S0094",
+        "softwareName": "Trojan.Karagany",
+        "description": "https://attack.mitre.org/software/S0094"
+    },
+    {
+        "softwareId": "S0001",
+        "softwareName": "Trojan.Mebromi",
+        "description": "https://attack.mitre.org/software/S0001"
+    },
+    {
+        "softwareId": "S0178",
+        "softwareName": "Truvasys",
+        "description": "https://attack.mitre.org/software/S0178"
+    },
+    {
+        "softwareId": "S0436",
+        "softwareName": "TSCookie",
+        "description": "https://attack.mitre.org/software/S0436"
+    },
+    {
+        "softwareId": "S0647",
+        "softwareName": "Turian",
+        "description": "https://attack.mitre.org/software/S0647"
+    },
+    {
+        "softwareId": "S0199",
+        "softwareName": "TURNEDUP",
+        "description": "https://attack.mitre.org/software/S0199"
+    },
+    {
+        "softwareId": "S0302",
+        "softwareName": "Twitoor",
+        "description": "https://attack.mitre.org/software/S0302"
+    },
+    {
+        "softwareId": "S0263",
+        "softwareName": "TYPEFRAME",
+        "description": "https://attack.mitre.org/software/S0263"
+    },
+    {
+        "softwareId": "S0116",
+        "softwareName": "UACMe",
+        "description": "https://attack.mitre.org/software/S0116"
+    },
+    {
+        "softwareId": "S0333",
+        "softwareName": "UBoatRAT",
+        "description": "https://attack.mitre.org/software/S0333"
+    },
+    {
+        "softwareId": "S0221",
+        "softwareName": "Umbreon",
+        "description": "https://attack.mitre.org/software/S0221"
+    },
+    {
+        "softwareId": "S0130",
+        "softwareName": "Unknown Logger",
+        "description": "https://attack.mitre.org/software/S0130"
+    },
+    {
+        "softwareId": "S0275",
+        "softwareName": "UPPERCUT",
+        "description": "https://attack.mitre.org/software/S0275"
+    },
+    {
+        "softwareId": "S0022",
+        "softwareName": "Uroburos",
+        "description": "https://attack.mitre.org/software/S0022"
+    },
+    {
+        "softwareId": "S0386",
+        "softwareName": "Ursnif",
+        "description": "https://attack.mitre.org/software/S0386"
+    },
+    {
+        "softwareId": "S0452",
+        "softwareName": "USBferry",
+        "description": "https://attack.mitre.org/software/S0452"
+    },
+    {
+        "softwareId": "S0136",
+        "softwareName": "USBStealer",
+        "description": "https://attack.mitre.org/software/S0136"
+    },
+    {
+        "softwareId": "S0476",
+        "softwareName": "Valak",
+        "description": "https://attack.mitre.org/software/S0476"
+    },
+    {
+        "softwareId": "S0636",
+        "softwareName": "VaporRage",
+        "description": "https://attack.mitre.org/software/S0636"
+    },
+    {
+        "softwareId": "S0207",
+        "softwareName": "Vasport",
+        "description": "https://attack.mitre.org/software/S0207"
+    },
+    {
+        "softwareId": "S0442",
+        "softwareName": "VBShower",
+        "description": "https://attack.mitre.org/software/S0442"
+    },
+    {
+        "softwareId": "S0257",
+        "softwareName": "VERMIN",
+        "description": "https://attack.mitre.org/software/S0257"
+    },
+    {
+        "softwareId": "S0418",
+        "softwareName": "ViceLeaker",
+        "description": "https://attack.mitre.org/software/S0418"
+    },
+    {
+        "softwareId": "S0506",
+        "softwareName": "ViperRAT",
+        "description": "https://attack.mitre.org/software/S0506"
+    },
+    {
+        "softwareId": "S0180",
+        "softwareName": "Volgmer",
+        "description": "https://attack.mitre.org/software/S0180"
+    },
+    {
+        "softwareId": "S1010",
+        "softwareName": "VPNFilter",
+        "description": "https://attack.mitre.org/software/S1010"
+    },
+    {
+        "softwareId": "S0366",
+        "softwareName": "WannaCry",
+        "description": "https://attack.mitre.org/software/S0366"
+    },
+    {
+        "softwareId": "S1116",
+        "softwareName": "WARPWIRE",
+        "description": "https://attack.mitre.org/software/S1116"
+    },
+    {
+        "softwareId": "S0670",
+        "softwareName": "WarzoneRAT",
+        "description": "https://attack.mitre.org/software/S0670"
+    },
+    {
+        "softwareId": "S0612",
+        "softwareName": "WastedLocker",
+        "description": "https://attack.mitre.org/software/S0612"
+    },
+    {
+        "softwareId": "S0579",
+        "softwareName": "Waterbear",
+        "description": "https://attack.mitre.org/software/S0579"
+    },
+    {
+        "softwareId": "S0109",
+        "softwareName": "WEBC2",
+        "description": "https://attack.mitre.org/software/S0109"
+    },
+    {
+        "softwareId": "S0515",
+        "softwareName": "WellMail",
+        "description": "https://attack.mitre.org/software/S0515"
+    },
+    {
+        "softwareId": "S0514",
+        "softwareName": "WellMess",
+        "description": "https://attack.mitre.org/software/S0514"
+    },
+    {
+        "softwareId": "S0645",
+        "softwareName": "Wevtutil",
+        "description": "https://attack.mitre.org/software/S0645"
+    },
+    {
+        "softwareId": "S0689",
+        "softwareName": "WhisperGate",
+        "description": "https://attack.mitre.org/software/S0689"
+    },
+    {
+        "softwareId": "S0206",
+        "softwareName": "Wiarp",
+        "description": "https://attack.mitre.org/software/S0206"
+    },
+    {
+        "softwareId": "S0005",
+        "softwareName": "Windows Credential Editor",
+        "description": "https://attack.mitre.org/software/S0005"
+    },
+    {
+        "softwareId": "S0155",
+        "softwareName": "WINDSHIELD",
+        "description": "https://attack.mitre.org/software/S0155"
+    },
+    {
+        "softwareId": "S0466",
+        "softwareName": "WindTail",
+        "description": "https://attack.mitre.org/software/S0466"
+    },
+    {
+        "softwareId": "S0219",
+        "softwareName": "WINERACK",
+        "description": "https://attack.mitre.org/software/S0219"
+    },
+    {
+        "softwareId": "S0191",
+        "softwareName": "Winexe",
+        "description": "https://attack.mitre.org/software/S0191"
+    },
+    {
+        "softwareId": "S0176",
+        "softwareName": "Wingbird",
+        "description": "https://attack.mitre.org/software/S0176"
+    },
+    {
+        "softwareId": "S0059",
+        "softwareName": "WinMM",
+        "description": "https://attack.mitre.org/software/S0059"
+    },
+    {
+        "softwareId": "S0430",
+        "softwareName": "Winnti for Linux",
+        "description": "https://attack.mitre.org/software/S0430"
+    },
+    {
+        "softwareId": "S0141",
+        "softwareName": "Winnti for Windows",
+        "description": "https://attack.mitre.org/software/S0141"
+    },
+    {
+        "softwareId": "S0041",
+        "softwareName": "Wiper",
+        "description": "https://attack.mitre.org/software/S0041"
+    },
+    {
+        "softwareId": "S1115",
+        "softwareName": "WIREFIRE",
+        "description": "https://attack.mitre.org/software/S1115"
+    },
+    {
+        "softwareId": "S0312",
+        "softwareName": "WireLurker",
+        "description": "https://attack.mitre.org/software/S0312"
+    },
+    {
+        "softwareId": "S0489",
+        "softwareName": "WolfRAT",
+        "description": "https://attack.mitre.org/software/S0489"
+    },
+    {
+        "softwareId": "S1065",
+        "softwareName": "Woody RAT",
+        "description": "https://attack.mitre.org/software/S1065"
+    },
+    {
+        "softwareId": "S0314",
+        "softwareName": "X-Agent for Android",
+        "description": "https://attack.mitre.org/software/S0314"
+    },
+    {
+        "softwareId": "S0161",
+        "softwareName": "XAgentOSX",
+        "description": "https://attack.mitre.org/software/S0161"
+    },
+    {
+        "softwareId": "S0341",
+        "softwareName": "Xbash",
+        "description": "https://attack.mitre.org/software/S0341"
+    },
+    {
+        "softwareId": "S0298",
+        "softwareName": "Xbot",
+        "description": "https://attack.mitre.org/software/S0298"
+    },
+    {
+        "softwareId": "S0653",
+        "softwareName": "xCaon",
+        "description": "https://attack.mitre.org/software/S0653"
+    },
+    {
+        "softwareId": "S0123",
+        "softwareName": "xCmd",
+        "description": "https://attack.mitre.org/software/S0123"
+    },
+    {
+        "softwareId": "S0297",
+        "softwareName": "XcodeGhost",
+        "description": "https://attack.mitre.org/software/S0297"
+    },
+    {
+        "softwareId": "S0658",
+        "softwareName": "XCSSET",
+        "description": "https://attack.mitre.org/software/S0658"
+    },
+    {
+        "softwareId": "S0318",
+        "softwareName": "XLoader for Android",
+        "description": "https://attack.mitre.org/software/S0318"
+    },
+    {
+        "softwareId": "S0490",
+        "softwareName": "XLoader for iOS",
+        "description": "https://attack.mitre.org/software/S0490"
+    },
+    {
+        "softwareId": "S0117",
+        "softwareName": "XTunnel",
+        "description": "https://attack.mitre.org/software/S0117"
+    },
+    {
+        "softwareId": "S0388",
+        "softwareName": "YAHOYAH",
+        "description": "https://attack.mitre.org/software/S0388"
+    },
+    {
+        "softwareId": "S0311",
+        "softwareName": "YiSpecter",
+        "description": "https://attack.mitre.org/software/S0311"
+    },
+    {
+        "softwareId": "S0248",
+        "softwareName": "yty",
+        "description": "https://attack.mitre.org/software/S0248"
+    },
+    {
+        "softwareId": "S0251",
+        "softwareName": "Zebrocy",
+        "description": "https://attack.mitre.org/software/S0251"
+    },
+    {
+        "softwareId": "S0494",
+        "softwareName": "Zen",
+        "description": "https://attack.mitre.org/software/S0494"
+    },
+    {
+        "softwareId": "S0287",
+        "softwareName": "ZergHelper",
+        "description": "https://attack.mitre.org/software/S0287"
+    },
+    {
+        "softwareId": "S0027",
+        "softwareName": "Zeroaccess",
+        "description": "https://attack.mitre.org/software/S0027"
+    },
+    {
+        "softwareId": "S0230",
+        "softwareName": "ZeroT",
+        "description": "https://attack.mitre.org/software/S0230"
+    },
+    {
+        "softwareId": "S0330",
+        "softwareName": "Zeus Panda",
+        "description": "https://attack.mitre.org/software/S0330"
+    },
+    {
+        "softwareId": "S1114",
+        "softwareName": "ZIPLINE",
+        "description": "https://attack.mitre.org/software/S1114"
+    },
+    {
+        "softwareId": "S0086",
+        "softwareName": "ZLib",
+        "description": "https://attack.mitre.org/software/S0086"
+    },
+    {
+        "softwareId": "S0672",
+        "softwareName": "Zox",
+        "description": "https://attack.mitre.org/software/S0672"
+    },
+    {
+        "softwareId": "S0350",
+        "softwareName": "zwShell",
+        "description": "https://attack.mitre.org/software/S0350"
+    },
+    {
+        "softwareId": "S0412",
+        "softwareName": "ZxShell",
+        "description": "https://attack.mitre.org/software/S0412"
+    },
+    {
+        "softwareId": "S1013",
+        "softwareName": "ZxxZ",
+        "description": "https://attack.mitre.org/software/S1013"
+    }
+]

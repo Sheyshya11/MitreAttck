@@ -1,0 +1,762 @@
+[
+    {
+        "groupId": "G0018",
+        "groupName": "admin@338",
+        "groupDescription": "https://attack.mitre.org/groups/G0018"
+    },
+    {
+        "groupId": "G0130",
+        "groupName": "Ajax Security Team",
+        "groupDescription": "https://attack.mitre.org/groups/G0130"
+    },
+    {
+        "groupId": "G1024",
+        "groupName": "Akira",
+        "groupDescription": "https://attack.mitre.org/groups/G1024"
+    },
+    {
+        "groupId": "G1000",
+        "groupName": "ALLANITE",
+        "groupDescription": "https://attack.mitre.org/groups/G1000"
+    },
+    {
+        "groupId": "G0138",
+        "groupName": "Andariel",
+        "groupDescription": "https://attack.mitre.org/groups/G0138"
+    },
+    {
+        "groupId": "G1007",
+        "groupName": "Aoqin Dragon",
+        "groupDescription": "https://attack.mitre.org/groups/G1007"
+    },
+    {
+        "groupId": "G1028",
+        "groupName": "APT-C-23",
+        "groupDescription": "https://attack.mitre.org/groups/G1028"
+    },
+    {
+        "groupId": "G0099",
+        "groupName": "APT-C-36",
+        "groupDescription": "https://attack.mitre.org/groups/G0099"
+    },
+    {
+        "groupId": "G0006",
+        "groupName": "APT1",
+        "groupDescription": "https://attack.mitre.org/groups/G0006"
+    },
+    {
+        "groupId": "G0005",
+        "groupName": "APT12",
+        "groupDescription": "https://attack.mitre.org/groups/G0005"
+    },
+    {
+        "groupId": "G0023",
+        "groupName": "APT16",
+        "groupDescription": "https://attack.mitre.org/groups/G0023"
+    },
+    {
+        "groupId": "G0025",
+        "groupName": "APT17",
+        "groupDescription": "https://attack.mitre.org/groups/G0025"
+    },
+    {
+        "groupId": "G0026",
+        "groupName": "APT18",
+        "groupDescription": "https://attack.mitre.org/groups/G0026"
+    },
+    {
+        "groupId": "G0073",
+        "groupName": "APT19",
+        "groupDescription": "https://attack.mitre.org/groups/G0073"
+    },
+    {
+        "groupId": "G0007",
+        "groupName": "APT28",
+        "groupDescription": "https://attack.mitre.org/groups/G0007"
+    },
+    {
+        "groupId": "G0016",
+        "groupName": "APT29",
+        "groupDescription": "https://attack.mitre.org/groups/G0016"
+    },
+    {
+        "groupId": "G0022",
+        "groupName": "APT3",
+        "groupDescription": "https://attack.mitre.org/groups/G0022"
+    },
+    {
+        "groupId": "G0013",
+        "groupName": "APT30",
+        "groupDescription": "https://attack.mitre.org/groups/G0013"
+    },
+    {
+        "groupId": "G0050",
+        "groupName": "APT32",
+        "groupDescription": "https://attack.mitre.org/groups/G0050"
+    },
+    {
+        "groupId": "G0064",
+        "groupName": "APT33",
+        "groupDescription": "https://attack.mitre.org/groups/G0064"
+    },
+    {
+        "groupId": "G0067",
+        "groupName": "APT37",
+        "groupDescription": "https://attack.mitre.org/groups/G0067"
+    },
+    {
+        "groupId": "G0082",
+        "groupName": "APT38",
+        "groupDescription": "https://attack.mitre.org/groups/G0082"
+    },
+    {
+        "groupId": "G0087",
+        "groupName": "APT39",
+        "groupDescription": "https://attack.mitre.org/groups/G0087"
+    },
+    {
+        "groupId": "G0096",
+        "groupName": "APT41",
+        "groupDescription": "https://attack.mitre.org/groups/G0096"
+    },
+    {
+        "groupId": "G1023",
+        "groupName": "APT5",
+        "groupDescription": "https://attack.mitre.org/groups/G1023"
+    },
+    {
+        "groupId": "G0143",
+        "groupName": "Aquatic Panda",
+        "groupDescription": "https://attack.mitre.org/groups/G0143"
+    },
+    {
+        "groupId": "G0001",
+        "groupName": "Axiom",
+        "groupDescription": "https://attack.mitre.org/groups/G0001"
+    },
+    {
+        "groupId": "G0135",
+        "groupName": "BackdoorDiplomacy",
+        "groupDescription": "https://attack.mitre.org/groups/G0135"
+    },
+    {
+        "groupId": "G1002",
+        "groupName": "BITTER",
+        "groupDescription": "https://attack.mitre.org/groups/G1002"
+    },
+    {
+        "groupId": "G0063",
+        "groupName": "BlackOasis",
+        "groupDescription": "https://attack.mitre.org/groups/G0063"
+    },
+    {
+        "groupId": "G0098",
+        "groupName": "BlackTech",
+        "groupDescription": "https://attack.mitre.org/groups/G0098"
+    },
+    {
+        "groupId": "G0108",
+        "groupName": "Blue Mockingbird",
+        "groupDescription": "https://attack.mitre.org/groups/G0108"
+    },
+    {
+        "groupId": "G0097",
+        "groupName": "Bouncing Golf",
+        "groupDescription": "https://attack.mitre.org/groups/G0097"
+    },
+    {
+        "groupId": "G0060",
+        "groupName": "BRONZE BUTLER",
+        "groupDescription": "https://attack.mitre.org/groups/G0060"
+    },
+    {
+        "groupId": "G0008",
+        "groupName": "Carbanak",
+        "groupDescription": "https://attack.mitre.org/groups/G0008"
+    },
+    {
+        "groupId": "G0114",
+        "groupName": "Chimera",
+        "groupDescription": "https://attack.mitre.org/groups/G0114"
+    },
+    {
+        "groupId": "G1021",
+        "groupName": "Cinnamon Tempest",
+        "groupDescription": "https://attack.mitre.org/groups/G1021"
+    },
+    {
+        "groupId": "G0003",
+        "groupName": "Cleaver",
+        "groupDescription": "https://attack.mitre.org/groups/G0003"
+    },
+    {
+        "groupId": "G0080",
+        "groupName": "Cobalt Group",
+        "groupDescription": "https://attack.mitre.org/groups/G0080"
+    },
+    {
+        "groupId": "G0142",
+        "groupName": "Confucius",
+        "groupDescription": "https://attack.mitre.org/groups/G0142"
+    },
+    {
+        "groupId": "G0052",
+        "groupName": "CopyKittens",
+        "groupDescription": "https://attack.mitre.org/groups/G0052"
+    },
+    {
+        "groupId": "G1012",
+        "groupName": "CURIUM",
+        "groupDescription": "https://attack.mitre.org/groups/G1012"
+    },
+    {
+        "groupId": "G1027",
+        "groupName": "CyberAv3ngers",
+        "groupDescription": "https://attack.mitre.org/groups/G1027"
+    },
+    {
+        "groupId": "G0070",
+        "groupName": "Dark Caracal",
+        "groupDescription": "https://attack.mitre.org/groups/G0070"
+    },
+    {
+        "groupId": "G0012",
+        "groupName": "Darkhotel",
+        "groupDescription": "https://attack.mitre.org/groups/G0012"
+    },
+    {
+        "groupId": "G0079",
+        "groupName": "DarkHydrus",
+        "groupDescription": "https://attack.mitre.org/groups/G0079"
+    },
+    {
+        "groupId": "G0105",
+        "groupName": "DarkVishnya",
+        "groupDescription": "https://attack.mitre.org/groups/G0105"
+    },
+    {
+        "groupId": "G0009",
+        "groupName": "Deep Panda",
+        "groupDescription": "https://attack.mitre.org/groups/G0009"
+    },
+    {
+        "groupId": "G0035",
+        "groupName": "Dragonfly",
+        "groupDescription": "https://attack.mitre.org/groups/G0035"
+    },
+    {
+        "groupId": "G0017",
+        "groupName": "DragonOK",
+        "groupDescription": "https://attack.mitre.org/groups/G0017"
+    },
+    {
+        "groupId": "G1006",
+        "groupName": "Earth Lusca",
+        "groupDescription": "https://attack.mitre.org/groups/G1006"
+    },
+    {
+        "groupId": "G0066",
+        "groupName": "Elderwood",
+        "groupDescription": "https://attack.mitre.org/groups/G0066"
+    },
+    {
+        "groupId": "G1003",
+        "groupName": "Ember Bear",
+        "groupDescription": "https://attack.mitre.org/groups/G1003"
+    },
+    {
+        "groupId": "G0020",
+        "groupName": "Equation",
+        "groupDescription": "https://attack.mitre.org/groups/G0020"
+    },
+    {
+        "groupId": "G0120",
+        "groupName": "Evilnum",
+        "groupDescription": "https://attack.mitre.org/groups/G0120"
+    },
+    {
+        "groupId": "G1011",
+        "groupName": "EXOTIC LILY",
+        "groupDescription": "https://attack.mitre.org/groups/G1011"
+    },
+    {
+        "groupId": "G0137",
+        "groupName": "Ferocious Kitten",
+        "groupDescription": "https://attack.mitre.org/groups/G0137"
+    },
+    {
+        "groupId": "G0051",
+        "groupName": "FIN10",
+        "groupDescription": "https://attack.mitre.org/groups/G0051"
+    },
+    {
+        "groupId": "G1016",
+        "groupName": "FIN13",
+        "groupDescription": "https://attack.mitre.org/groups/G1016"
+    },
+    {
+        "groupId": "G0085",
+        "groupName": "FIN4",
+        "groupDescription": "https://attack.mitre.org/groups/G0085"
+    },
+    {
+        "groupId": "G0053",
+        "groupName": "FIN5",
+        "groupDescription": "https://attack.mitre.org/groups/G0053"
+    },
+    {
+        "groupId": "G0037",
+        "groupName": "FIN6",
+        "groupDescription": "https://attack.mitre.org/groups/G0037"
+    },
+    {
+        "groupId": "G0046",
+        "groupName": "FIN7",
+        "groupDescription": "https://attack.mitre.org/groups/G0046"
+    },
+    {
+        "groupId": "G0061",
+        "groupName": "FIN8",
+        "groupDescription": "https://attack.mitre.org/groups/G0061"
+    },
+    {
+        "groupId": "G0117",
+        "groupName": "Fox Kitten",
+        "groupDescription": "https://attack.mitre.org/groups/G0117"
+    },
+    {
+        "groupId": "G0093",
+        "groupName": "GALLIUM",
+        "groupDescription": "https://attack.mitre.org/groups/G0093"
+    },
+    {
+        "groupId": "G0084",
+        "groupName": "Gallmaker",
+        "groupDescription": "https://attack.mitre.org/groups/G0084"
+    },
+    {
+        "groupId": "G0047",
+        "groupName": "Gamaredon Group",
+        "groupDescription": "https://attack.mitre.org/groups/G0047"
+    },
+    {
+        "groupId": "G0036",
+        "groupName": "GCMAN",
+        "groupDescription": "https://attack.mitre.org/groups/G0036"
+    },
+    {
+        "groupId": "G0115",
+        "groupName": "GOLD SOUTHFIELD",
+        "groupDescription": "https://attack.mitre.org/groups/G0115"
+    },
+    {
+        "groupId": "G0078",
+        "groupName": "Gorgon Group",
+        "groupDescription": "https://attack.mitre.org/groups/G0078"
+    },
+    {
+        "groupId": "G0043",
+        "groupName": "Group5",
+        "groupDescription": "https://attack.mitre.org/groups/G0043"
+    },
+    {
+        "groupId": "G0125",
+        "groupName": "HAFNIUM",
+        "groupDescription": "https://attack.mitre.org/groups/G0125"
+    },
+    {
+        "groupId": "G1001",
+        "groupName": "HEXANE",
+        "groupDescription": "https://attack.mitre.org/groups/G1001"
+    },
+    {
+        "groupId": "G0126",
+        "groupName": "Higaisa",
+        "groupDescription": "https://attack.mitre.org/groups/G0126"
+    },
+    {
+        "groupId": "G0100",
+        "groupName": "Inception",
+        "groupDescription": "https://attack.mitre.org/groups/G0100"
+    },
+    {
+        "groupId": "G0136",
+        "groupName": "IndigoZebra",
+        "groupDescription": "https://attack.mitre.org/groups/G0136"
+    },
+    {
+        "groupId": "G0119",
+        "groupName": "Indrik Spider",
+        "groupDescription": "https://attack.mitre.org/groups/G0119"
+    },
+    {
+        "groupId": "G0004",
+        "groupName": "Ke3chang",
+        "groupDescription": "https://attack.mitre.org/groups/G0004"
+    },
+    {
+        "groupId": "G0094",
+        "groupName": "Kimsuky",
+        "groupDescription": "https://attack.mitre.org/groups/G0094"
+    },
+    {
+        "groupId": "G1004",
+        "groupName": "LAPSUS$",
+        "groupDescription": "https://attack.mitre.org/groups/G1004"
+    },
+    {
+        "groupId": "G0032",
+        "groupName": "Lazarus Group",
+        "groupDescription": "https://attack.mitre.org/groups/G0032"
+    },
+    {
+        "groupId": "G0140",
+        "groupName": "LazyScripter",
+        "groupDescription": "https://attack.mitre.org/groups/G0140"
+    },
+    {
+        "groupId": "G0077",
+        "groupName": "Leafminer",
+        "groupDescription": "https://attack.mitre.org/groups/G0077"
+    },
+    {
+        "groupId": "G0065",
+        "groupName": "Leviathan",
+        "groupDescription": "https://attack.mitre.org/groups/G0065"
+    },
+    {
+        "groupId": "G0030",
+        "groupName": "Lotus Blossom",
+        "groupDescription": "https://attack.mitre.org/groups/G0030"
+    },
+    {
+        "groupId": "G1014",
+        "groupName": "LuminousMoth",
+        "groupDescription": "https://attack.mitre.org/groups/G1014"
+    },
+    {
+        "groupId": "G0095",
+        "groupName": "Machete",
+        "groupDescription": "https://attack.mitre.org/groups/G0095"
+    },
+    {
+        "groupId": "G0059",
+        "groupName": "Magic Hound",
+        "groupDescription": "https://attack.mitre.org/groups/G0059"
+    },
+    {
+        "groupId": "G1026",
+        "groupName": "Malteiro",
+        "groupDescription": "https://attack.mitre.org/groups/G1026"
+    },
+    {
+        "groupId": "G0045",
+        "groupName": "menuPass",
+        "groupDescription": "https://attack.mitre.org/groups/G0045"
+    },
+    {
+        "groupId": "G1013",
+        "groupName": "Metador",
+        "groupDescription": "https://attack.mitre.org/groups/G1013"
+    },
+    {
+        "groupId": "G0002",
+        "groupName": "Moafee",
+        "groupDescription": "https://attack.mitre.org/groups/G0002"
+    },
+    {
+        "groupId": "G0103",
+        "groupName": "Mofang",
+        "groupDescription": "https://attack.mitre.org/groups/G0103"
+    },
+    {
+        "groupId": "G0021",
+        "groupName": "Molerats",
+        "groupDescription": "https://attack.mitre.org/groups/G0021"
+    },
+    {
+        "groupId": "G1009",
+        "groupName": "Moses Staff",
+        "groupDescription": "https://attack.mitre.org/groups/G1009"
+    },
+    {
+        "groupId": "G1019",
+        "groupName": "MoustachedBouncer",
+        "groupDescription": "https://attack.mitre.org/groups/G1019"
+    },
+    {
+        "groupId": "G0069",
+        "groupName": "MuddyWater",
+        "groupDescription": "https://attack.mitre.org/groups/G0069"
+    },
+    {
+        "groupId": "G0129",
+        "groupName": "Mustang Panda",
+        "groupDescription": "https://attack.mitre.org/groups/G0129"
+    },
+    {
+        "groupId": "G1020",
+        "groupName": "Mustard Tempest",
+        "groupDescription": "https://attack.mitre.org/groups/G1020"
+    },
+    {
+        "groupId": "G0019",
+        "groupName": "Naikon",
+        "groupDescription": "https://attack.mitre.org/groups/G0019"
+    },
+    {
+        "groupId": "G0055",
+        "groupName": "NEODYMIUM",
+        "groupDescription": "https://attack.mitre.org/groups/G0055"
+    },
+    {
+        "groupId": "G0133",
+        "groupName": "Nomadic Octopus",
+        "groupDescription": "https://attack.mitre.org/groups/G0133"
+    },
+    {
+        "groupId": "G0049",
+        "groupName": "OilRig",
+        "groupDescription": "https://attack.mitre.org/groups/G0049"
+    },
+    {
+        "groupId": "G0071",
+        "groupName": "Orangeworm",
+        "groupDescription": "https://attack.mitre.org/groups/G0071"
+    },
+    {
+        "groupId": "G0040",
+        "groupName": "Patchwork",
+        "groupDescription": "https://attack.mitre.org/groups/G0040"
+    },
+    {
+        "groupId": "G0011",
+        "groupName": "PittyTiger",
+        "groupDescription": "https://attack.mitre.org/groups/G0011"
+    },
+    {
+        "groupId": "G0068",
+        "groupName": "PLATINUM",
+        "groupDescription": "https://attack.mitre.org/groups/G0068"
+    },
+    {
+        "groupId": "G1005",
+        "groupName": "POLONIUM",
+        "groupDescription": "https://attack.mitre.org/groups/G1005"
+    },
+    {
+        "groupId": "G0033",
+        "groupName": "Poseidon Group",
+        "groupDescription": "https://attack.mitre.org/groups/G0033"
+    },
+    {
+        "groupId": "G0056",
+        "groupName": "PROMETHIUM",
+        "groupDescription": "https://attack.mitre.org/groups/G0056"
+    },
+    {
+        "groupId": "G0024",
+        "groupName": "Putter Panda",
+        "groupDescription": "https://attack.mitre.org/groups/G0024"
+    },
+    {
+        "groupId": "G0075",
+        "groupName": "Rancor",
+        "groupDescription": "https://attack.mitre.org/groups/G0075"
+    },
+    {
+        "groupId": "G0106",
+        "groupName": "Rocke",
+        "groupDescription": "https://attack.mitre.org/groups/G0106"
+    },
+    {
+        "groupId": "G0048",
+        "groupName": "RTM",
+        "groupDescription": "https://attack.mitre.org/groups/G0048"
+    },
+    {
+        "groupId": "G0034",
+        "groupName": "Sandworm Team",
+        "groupDescription": "https://attack.mitre.org/groups/G0034"
+    },
+    {
+        "groupId": "G0029",
+        "groupName": "Scarlet Mimic",
+        "groupDescription": "https://attack.mitre.org/groups/G0029"
+    },
+    {
+        "groupId": "G1015",
+        "groupName": "Scattered Spider",
+        "groupDescription": "https://attack.mitre.org/groups/G1015"
+    },
+    {
+        "groupId": "G1008",
+        "groupName": "SideCopy",
+        "groupDescription": "https://attack.mitre.org/groups/G1008"
+    },
+    {
+        "groupId": "G0121",
+        "groupName": "Sidewinder",
+        "groupDescription": "https://attack.mitre.org/groups/G0121"
+    },
+    {
+        "groupId": "G0091",
+        "groupName": "Silence",
+        "groupDescription": "https://attack.mitre.org/groups/G0091"
+    },
+    {
+        "groupId": "G0122",
+        "groupName": "Silent Librarian",
+        "groupDescription": "https://attack.mitre.org/groups/G0122"
+    },
+    {
+        "groupId": "G0083",
+        "groupName": "SilverTerrier",
+        "groupDescription": "https://attack.mitre.org/groups/G0083"
+    },
+    {
+        "groupId": "G0054",
+        "groupName": "Sowbug",
+        "groupDescription": "https://attack.mitre.org/groups/G0054"
+    },
+    {
+        "groupId": "G0038",
+        "groupName": "Stealth Falcon",
+        "groupDescription": "https://attack.mitre.org/groups/G0038"
+    },
+    {
+        "groupId": "G0041",
+        "groupName": "Strider",
+        "groupDescription": "https://attack.mitre.org/groups/G0041"
+    },
+    {
+        "groupId": "G0039",
+        "groupName": "Suckfly",
+        "groupDescription": "https://attack.mitre.org/groups/G0039"
+    },
+    {
+        "groupId": "G1018",
+        "groupName": "TA2541",
+        "groupDescription": "https://attack.mitre.org/groups/G1018"
+    },
+    {
+        "groupId": "G0062",
+        "groupName": "TA459",
+        "groupDescription": "https://attack.mitre.org/groups/G0062"
+    },
+    {
+        "groupId": "G0092",
+        "groupName": "TA505",
+        "groupDescription": "https://attack.mitre.org/groups/G0092"
+    },
+    {
+        "groupId": "G0127",
+        "groupName": "TA551",
+        "groupDescription": "https://attack.mitre.org/groups/G0127"
+    },
+    {
+        "groupId": "G0139",
+        "groupName": "TeamTNT",
+        "groupDescription": "https://attack.mitre.org/groups/G0139"
+    },
+    {
+        "groupId": "G0088",
+        "groupName": "TEMP.Veles",
+        "groupDescription": "https://attack.mitre.org/groups/G0088"
+    },
+    {
+        "groupId": "G0089",
+        "groupName": "The White Company",
+        "groupDescription": "https://attack.mitre.org/groups/G0089"
+    },
+    {
+        "groupId": "G0028",
+        "groupName": "Threat Group-1314",
+        "groupDescription": "https://attack.mitre.org/groups/G0028"
+    },
+    {
+        "groupId": "G0027",
+        "groupName": "Threat Group-3390",
+        "groupDescription": "https://attack.mitre.org/groups/G0027"
+    },
+    {
+        "groupId": "G0076",
+        "groupName": "Thrip",
+        "groupDescription": "https://attack.mitre.org/groups/G0076"
+    },
+    {
+        "groupId": "G1022",
+        "groupName": "ToddyCat",
+        "groupDescription": "https://attack.mitre.org/groups/G1022"
+    },
+    {
+        "groupId": "G0131",
+        "groupName": "Tonto Team",
+        "groupDescription": "https://attack.mitre.org/groups/G0131"
+    },
+    {
+        "groupId": "G0134",
+        "groupName": "Transparent Tribe",
+        "groupDescription": "https://attack.mitre.org/groups/G0134"
+    },
+    {
+        "groupId": "G0081",
+        "groupName": "Tropic Trooper",
+        "groupDescription": "https://attack.mitre.org/groups/G0081"
+    },
+    {
+        "groupId": "G0010",
+        "groupName": "Turla",
+        "groupDescription": "https://attack.mitre.org/groups/G0010"
+    },
+    {
+        "groupId": "G1029",
+        "groupName": "UNC788",
+        "groupDescription": "https://attack.mitre.org/groups/G1029"
+    },
+    {
+        "groupId": "G0123",
+        "groupName": "Volatile Cedar",
+        "groupDescription": "https://attack.mitre.org/groups/G0123"
+    },
+    {
+        "groupId": "G1017",
+        "groupName": "Volt Typhoon",
+        "groupDescription": "https://attack.mitre.org/groups/G1017"
+    },
+    {
+        "groupId": "G0107",
+        "groupName": "Whitefly",
+        "groupDescription": "https://attack.mitre.org/groups/G0107"
+    },
+    {
+        "groupId": "G0124",
+        "groupName": "Windigo",
+        "groupDescription": "https://attack.mitre.org/groups/G0124"
+    },
+    {
+        "groupId": "G0112",
+        "groupName": "Windshift",
+        "groupDescription": "https://attack.mitre.org/groups/G0112"
+    },
+    {
+        "groupId": "G0044",
+        "groupName": "Winnti Group",
+        "groupDescription": "https://attack.mitre.org/groups/G0044"
+    },
+    {
+        "groupId": "G0090",
+        "groupName": "WIRTE",
+        "groupDescription": "https://attack.mitre.org/groups/G0090"
+    },
+    {
+        "groupId": "G0102",
+        "groupName": "Wizard Spider",
+        "groupDescription": "https://attack.mitre.org/groups/G0102"
+    },
+    {
+        "groupId": "G0128",
+        "groupName": "ZIRCONIUM",
+        "groupDescription": "https://attack.mitre.org/groups/G0128"
+    }
+]
